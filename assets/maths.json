@@ -1,0 +1,985 @@
+{
+   "name":"UEE Mathematics Natural 2011",
+   "time":120,
+   "subject":3,
+   "code":32,
+   "grade":"12",
+   "price":5.0,
+   "questions":[
+      {
+         "ques":"<p>Consider a rectangle ABCD with base vertices A = (0,3) and B = (4,0) and the other vertices, C and D, in the first- quadrant of the coordinate plane. If its height&nbsp;<span class=\"math-tex\">\\(\\overline{BC}\\)</span> is half of the length of its base, then which of the following indicates the coordinates of vertex C ?</p>",
+         "choice_a":"<p>(4, 5/2)</p>",
+         "choice_b":"<p>(6, 3/2)</p>",
+         "choice_c":"<p>(11/2, 2)</p>",
+         "choice_d":"<p>(5/2, - 2)</p>",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":30,
+            "grade":7,
+            "name":"Vectors and Transformation of the Plane",
+            "unit":"Grade 11: Unit 8"
+         }
+      },
+      {
+         "ques":"<p>What is the solution set of&nbsp;<span class=\"math-tex\">\\(sin^{2}x - sin x cosx= 0\\)</span> over <span class=\"math-tex\">\\([0, 2\\Pi ]\\)</span>?</p>",
+         "choice_a":"<p><span class=\"math-tex\">\\(\\left \\{ 0, \\frac{\\Pi }{4}, \\Pi, \\frac{5\\Pi }{4}, 2\\Pi  \\right \\}\\)</span></p>",
+         "choice_b":"<p><span class=\"math-tex\">\\(\\left \\{ 0, \\frac{\\Pi }{4}, \\Pi, 2\\Pi  \\right \\}\\)</span></p>",
+         "choice_c":"<p><span class=\"math-tex\">\\(\\left \\{ 0, \\Pi , \\frac{5\\Pi }{4}, 2\\Pi  \\right \\}\\)</span></p>",
+         "choice_d":"<p><span class=\"math-tex\">\\(\\left \\{ 0, \\frac{\\Pi }{4}, \\Pi, \\frac{5\\Pi }{4}  \\right \\}\\)</span></p>",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":31,
+            "grade":7,
+            "name":"Further on Trigonometric Functions",
+            "unit":"Grade 11: Unit 9"
+         }
+      },
+      {
+         "ques":"<p>If the point&nbsp;<span class=\"math-tex\">\\(\\left ( \\alpha , 0, 3 \\right )\\)</span> is on the sphere centered at (1,2,3) with radius 2, what is the value of <span class=\"math-tex\">\\(\\alpha\\)</span>?</p>",
+         "choice_a":"<p>0</p>",
+         "choice_b":"<p>-3</p>",
+         "choice_c":"<p>2</p>",
+         "choice_d":"<p>1</p>",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":38,
+            "grade":8,
+            "name":"Three Dimensional Geometry and Vectors in Space",
+            "unit":"Grade 12: Unit 6"
+         }
+      },
+      {
+         "ques":"<p>Which one of the following is a valid assertion that can be proved by the principle of mathematical induction?</p>",
+         "choice_a":"<p>n<sup>3</sup> - n is divisible by 6, for every integer&nbsp;<span class=\"math-tex\">\\(n\\geq 1\\)</span></p>",
+         "choice_b":"<p>2<sup>n</sup> &gt; n + 20, for every integer&nbsp;<span class=\"math-tex\">\\(n\\geq 4\\)</span></p>",
+         "choice_c":"<p><span class=\"math-tex\">\\(n^{2} \\leq 2^{n}\\)</span>, for every integer <span class=\"math-tex\">\\(n\\geq 1\\)</span>.</p>",
+         "choice_d":"<p>3n + 25 &lt; 3<sup>n</sup>, for every integer&nbsp;<span class=\"math-tex\">\\(n\\geq 3\\)</span></p>",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":39,
+            "grade":8,
+            "name":"Mathematical Proofs",
+            "unit":"Grade 12: Unit 7"
+         }
+      },
+      {
+         "ques":"<p>When the plane is rotated 45<sup>o</sup> about the point (1,-2), then what would be the image of the point (2,4)?</p>",
+         "choice_a":"<p><span class=\"math-tex\">\\(\\left ( \\frac{5\\sqrt{2}}{2}, \\frac{7\\sqrt{2}}{2} \\right )\\)</span></p>",
+         "choice_b":"<p><span class=\"math-tex\">\\(\\left (1 - \\frac{\\sqrt{2}}{2}, -2+\\frac{\\sqrt{2}}{2} \\right )\\)</span></p>",
+         "choice_c":"<p><span class=\"math-tex\">\\(\\left (1 - \\frac{5\\sqrt{2}}{2}, -2+\\frac{7\\sqrt{2}}{2} \\right )\\)</span></p>",
+         "choice_d":"<p><span class=\"math-tex\">\\(\\left (\\frac{\\sqrt{2}}{2}, \\frac{\\sqrt{2}}{2} \\right )\\)</span></p>",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":36,
+            "grade":8,
+            "name":"Applications of Differential Calculus",
+            "unit":"Grade 12: Unit 4"
+         }
+      },
+      {
+         "ques":"<p><span class=\"math-tex\">\\(\\forall n\\, \\epsilon \\, N, 3^{n} - 2\\)</span>&nbsp;is prime that can be proved or disproved by which one of the following mathematical proofs?</p>",
+         "choice_a":"<p>Direct proof</p>",
+         "choice_b":"<p>Disprove by counterexample</p>",
+         "choice_c":"<p>proof by exhaustion</p>",
+         "choice_d":"<p>Proof by contradiction</p>",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":39,
+            "grade":8,
+            "name":"Mathematical Proofs",
+            "unit":"Grade 12: Unit 7"
+         }
+      },
+      {
+         "ques":"<p>Let L be the line given by the vector equation <span class=\"math-tex\">\\((x, y) = (1,1) + t(\\sqrt{3},1), t \\,\\epsilon \\,\\Re \\)</span>. What is the equation of the image of L after being rotated 15<sup>o</sup> about (1,1) and then translated by vector u = (-1,1) ?</p>",
+         "choice_a":"<p><span class=\"math-tex\">\\(-x + \\sqrt{3} y = 1\\)</span></p>",
+         "choice_b":"<p><span class=\"math-tex\">\\(x - y = 2\\)</span></p>",
+         "choice_c":"<p><span class=\"math-tex\">\\(\\sqrt{3}x -  y = 2\\)</span></p>",
+         "choice_d":"<p><span class=\"math-tex\">\\(-x +  y = 2\\)</span></p>",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":30,
+            "grade":7,
+            "name":"Vectors and Transformation of the Plane",
+            "unit":"Grade 11: Unit 8"
+         }
+      },
+      {
+         "ques":"<p>What is the image of the circle <span class=\"math-tex\">\\(x^{2} + y^{2} - 4x - 6y + 11 = 0\\)</span>, when the origin is shifted to the point (1,1) after translation of axes?</p>",
+         "choice_a":"<p><span class=\"math-tex\">\\(x^{2} + y^{2} - 4x - 6y + 3 = 0\\)</span></p>",
+         "choice_b":"<p><span class=\"math-tex\">\\(x^{2} + y^{2} - 6x - 8y + 23 = 0\\)</span></p>",
+         "choice_c":"<p><span class=\"math-tex\">\\(x^{2} + y^{2} + 6x + 8y - 23 = 0\\)</span></p>",
+         "choice_d":"<p><span class=\"math-tex\">\\(x^{2} + y^{2} - 4x - 2y + 3 = 0\\)</span></p>",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":30,
+            "grade":7,
+            "name":"Vectors and Transformation of the Plane",
+            "unit":"Grade 11: Unit 8"
+         }
+      },
+      {
+         "ques":"<p>What is the value of&nbsp;<span class=\"math-tex\">\\(270^{o} + 2cos90^{o} + 4sec180^{o}\\)</span></p>",
+         "choice_a":"<p>-2</p>",
+         "choice_b":"<p>8</p>",
+         "choice_c":"<p>7</p>",
+         "choice_d":"<p>4</p>",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":31,
+            "grade":7,
+            "name":"Further on Trigonometric Functions",
+            "unit":"Grade 11: Unit 9"
+         }
+      },
+      {
+         "ques":"<p>If&nbsp;<span class=\"math-tex\">\\(u = 2\\overrightarrow{j} - \\overrightarrow{k}\\)</span> and <span class=\"math-tex\">\\(v = \\overrightarrow{i} - 8\\overrightarrow{j} + 3\\overrightarrow{k}\\)</span>, then what is the unit vector in the direction of 5u+v .</p>",
+         "choice_a":"<p><span class=\"math-tex\">\\(\\frac{1}{3}\\overrightarrow{i} + \\frac{2}{3}\\overrightarrow{j} - \\frac{2}{3}\\overrightarrow{k}\\)</span></p>",
+         "choice_b":"<p><span class=\"math-tex\">\\(\\frac{2}{3}\\overrightarrow{i} + \\frac{1}{3}\\overrightarrow{j} - \\frac{2}{3}\\overrightarrow{k}\\)</span></p>",
+         "choice_c":"<p><span class=\"math-tex\">\\(\\overrightarrow{i} + 2\\overrightarrow{j} - 2\\overrightarrow{k}\\)</span></p>",
+         "choice_d":"<p><span class=\"math-tex\">\\(\\frac{1}{3}\\overrightarrow{i} + \\frac{2}{3}\\overrightarrow{j} + \\frac{2}{3}\\overrightarrow{k}\\)</span></p>",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":38,
+            "grade":8,
+            "name":"Three Dimensional Geometry and Vectors in Space",
+            "unit":"Grade 12: Unit 6"
+         }
+      },
+      {
+         "ques":"<p>If the angle between the vectors&nbsp;<span class=\"math-tex\">\\(\\overrightarrow{A} = (2, -1, 1)\\)</span> and <span class=\"math-tex\">\\(\\overrightarrow{B} = (1, 1, \\alpha )\\)</span>&nbsp;is <span class=\"math-tex\">\\(\\frac{\\Pi }{3}\\)</span>, then what is the value of&nbsp;<span class=\"math-tex\">\\(\\alpha\\)</span></p>",
+         "choice_a":"<p>1</p>",
+         "choice_b":"<p>2</p>",
+         "choice_c":"<p>-1</p>",
+         "choice_d":"<p>-2</p>",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":38,
+            "grade":8,
+            "name":"Three Dimensional Geometry and Vectors in Space",
+            "unit":"Grade 12: Unit 6"
+         }
+      },
+      {
+         "ques":"<p>Ship A and B depart from the same point at the same time on the course N60<sup>o</sup>E and N40<sup>o</sup>E, respectively. If the speed of ship A is 20km per hour and the speed of ship B is 30 km per hour, what is the distance between the two ships just after 30 minutes of their departure? [You may take: cos (40<sup>o</sup>)=0.77, cos (20<sup>o</sup>)= 0.94, sin (20<sup>o</sup>) =0.34]</p>",
+         "choice_a":"<p><span class=\"math-tex\">\\(\\sqrt{40}km\\)</span></p>",
+         "choice_b":"<p><span class=\"math-tex\">\\(\\sqrt{53}km\\)</span></p>",
+         "choice_c":"<p><span class=\"math-tex\">\\(\\sqrt{50}km\\)</span></p>",
+         "choice_d":"<p><span class=\"math-tex\">\\(\\sqrt{43}km\\)</span></p>",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":31,
+            "grade":7,
+            "name":"Further on Trigonometric Functions",
+            "unit":"Grade 11: Unit 9"
+         }
+      },
+      {
+         "ques":"<p>(Image)The diagram below is a representation of a 25 m vertical observation tower TB and two cars K and L on a road. The angle of depression from T to car L is 30<sup>o</sup>. The angle of elevation from car K to the top of the tower is 60<sup>o</sup>. B, K and L lie in a straight line and lie on the same horizontal plane as the base of the tower. What is the distance between the two cars?</p>",
+         "choice_a":"<p><span class=\"math-tex\">\\(50\\sqrt{3}m\\)</span></p>",
+         "choice_b":"<p><span class=\"math-tex\">\\(\\frac{50\\sqrt{3}}{3}m\\)</span></p>",
+         "choice_c":"<p><span class=\"math-tex\">\\(\\frac{50\\sqrt{3}}{2}m\\)</span></p>",
+         "choice_d":"<p><span class=\"math-tex\">\\(50 + \\sqrt{3}m\\)</span></p>",
+         "ans":"b",
+         "image":"/media/exam/questions/Screenshot_2023-01-15_173214.png",
+         "chapter":{
+            "id":31,
+            "grade":7,
+            "name":"Further on Trigonometric Functions",
+            "unit":"Grade 11: Unit 9"
+         }
+      },
+      {
+         "ques":"<p>Which of the following is a correct assertion that can be proved by the principle of mathematical induction?</p>",
+         "choice_a":"<p><span class=\"math-tex\">\\(\\frac{1}{n+1}\\leq 1\\)</span>, for each real number <span class=\"math-tex\">\\(n\\geq 1\\)</span>.</p>",
+         "choice_b":"<p><span class=\"math-tex\">\\(m! \\leq 4^{m}\\)</span>, for each positive integer m.</p>",
+         "choice_c":"<p><span class=\"math-tex\">\\(k! \\geq 2^{k}\\)</span>, for each integer&nbsp;<span class=\"math-tex\">\\(k \\geq 4\\)</span></p>",
+         "choice_d":"<p><span class=\"math-tex\">\\(2^{p} - 1\\)</span>&nbsp;is prime for each prime integer p</p>",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":39,
+            "grade":8,
+            "name":"Mathematical Proofs",
+            "unit":"Grade 12: Unit 7"
+         }
+      },
+      {
+         "ques":"<p>What is the polar form of&nbsp;<span class=\"math-tex\">\\(\\frac{7 - i}{3 - 4i}\\)</span>?</p>",
+         "choice_a":"<p><span class=\"math-tex\">\\(\\sqrt{2}\\left ( cos\\frac{\\Pi }{4} + isin\\frac{\\Pi }{4} \\right )\\)</span></p>",
+         "choice_b":"<p><span class=\"math-tex\">\\(\\sqrt{2}\\left ( cos\\frac{\\Pi }{2} + isin\\frac{\\Pi }{2} \\right )\\)</span></p>",
+         "choice_c":"<p><span class=\"math-tex\">\\(2\\left ( cos\\frac{\\Pi }{2} + isin\\frac{\\Pi }{2} \\right )\\)</span></p>",
+         "choice_d":"<p><span class=\"math-tex\">\\(2\\left ( cos\\frac{\\Pi }{4} + isin\\frac{\\Pi }{4} \\right )\\)</span></p>",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":29,
+            "grade":7,
+            "name":"The Set of Complex Numbers",
+            "unit":"Grade 11: Unit 7"
+         }
+      },
+      {
+         "ques":"<p>Fatuma can solve 90% of the problems given in a book and Mesfin can solve 70%. What is the probability that at least one of them will solve the problem, selected at random from the book?</p>",
+         "choice_a":"<p>0.77</p>",
+         "choice_b":"<p>0.87</p>",
+         "choice_c":"<p>0.67</p>",
+         "choice_d":"<p>0.97</p>",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":27,
+            "grade":7,
+            "name":"Statistics and Probability",
+            "unit":"Grade 11: Unit 5"
+         }
+      },
+      {
+         "ques":"<p>If <span class=\"math-tex\">\\(h(x) = \\sqrt{1 + \\sqrt{x}}\\)</span>, then which of the following is equal to h&#39;(x)?</p>",
+         "choice_a":"<p><span class=\"math-tex\">\\(\\frac{1}{2\\sqrt{1 + \\sqrt{x}}}\\)</span></p>",
+         "choice_b":"<p><span class=\"math-tex\">\\(\\frac{x}{2\\sqrt{1 + \\sqrt{x}}}\\)</span></p>",
+         "choice_c":"<p><span class=\"math-tex\">\\(\\frac{1}{4\\sqrt{x + x\\sqrt{x}}}\\)</span></p>",
+         "choice_d":"<p><span class=\"math-tex\">\\(\\frac{x}{4\\sqrt{x + x\\sqrt{x}}}\\)</span></p>",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":35,
+            "grade":8,
+            "name":"Introduction to Differential Calculus",
+            "unit":"Grade 12: Unit 3"
+         }
+      },
+      {
+         "ques":"<p>At what value of x does the function&nbsp;<span class=\"math-tex\">\\(f(x) = \\frac{4x^{3}}{3} - x^{4}\\)</span> attains its maximum value?</p>",
+         "choice_a":"<p>1</p>",
+         "choice_b":"<p>0</p>",
+         "choice_c":"<p>-1</p>",
+         "choice_d":"<p>4/3</p>",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":36,
+            "grade":8,
+            "name":"Applications of Differential Calculus",
+            "unit":"Grade 12: Unit 4"
+         }
+      },
+      {
+         "ques":"<p>What is the limit of the sequence <span class=\"math-tex\">\\(1, \\frac{2}{2^{2}-1^{2}}, \\frac{3}{3^{2}-2^{2}}, \\frac{4}{4^{2}-3^{2}}, ...\\)</span>?</p>",
+         "choice_a":"<p>0</p>",
+         "choice_b":"<p>1</p>",
+         "choice_c":"<p>3/2</p>",
+         "choice_d":"<p>1/2</p>",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":34,
+            "grade":8,
+            "name":"Introduction to Limits and Continuity",
+            "unit":"Grade 12: Unit 2"
+         }
+      },
+      {
+         "ques":"<p>If the region enclosed by the graphs of f(x)=x<sup><span style=\"font-size:10.8333px\">2</span>&nbsp;</sup>and f(x)=x<sup>3</sup> from x=0 to x=1 rotates about the x- axis, what is the volume of the solid of revolution?</p>",
+         "choice_a":"<p><span class=\"math-tex\">\\(\\frac{2\\Pi }{27}\\)</span>&nbsp;cubic units</p>",
+         "choice_b":"<p><span class=\"math-tex\">\\(\\frac{2\\Pi }{35}\\)</span>&nbsp;cubic units</p>",
+         "choice_c":"<p><span class=\"math-tex\">\\(\\frac{2\\Pi }{5}\\)</span>&nbsp;cubic units</p>",
+         "choice_d":"<p><span class=\"math-tex\">\\(\\frac{2\\Pi }{25}\\)</span>&nbsp;cubic units</p>",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":37,
+            "grade":8,
+            "name":"Introduction to Integral Calculus",
+            "unit":"Grade 12: Unit 5"
+         }
+      },
+      {
+         "ques":"<p>If&nbsp;<span class=\"math-tex\">\\(f(x)=\\frac{1}{x}\\)</span> , then what is the value of f<sup>(n)</sup>(x)?</p>",
+         "choice_a":"<p><span class=\"math-tex\">\\(f^{(n)}(x)=\\frac{(-1)^{n}n!}{x^{n+1}}\\)</span></p>",
+         "choice_b":"<p><span class=\"math-tex\">\\(f^{(n)}(x)=\\frac{(-1)^{n+1}(n+1)!}{x^{n+1}}\\)</span></p>",
+         "choice_c":"<p><span class=\"math-tex\">\\(f^{(n)}(x)=\\frac{(-1)^{n}n!}{x^{n-1}}\\)</span></p>",
+         "choice_d":"<p><span class=\"math-tex\">\\(f^{(n)}(x)=\\frac{(-1)^{n}n!}{x^{n}}\\)</span></p>",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":35,
+            "grade":8,
+            "name":"Introduction to Differential Calculus",
+            "unit":"Grade 12: Unit 3"
+         }
+      },
+      {
+         "ques":"Suppose 2,500 items are produced by a machine and 2% of the product are randomly selected and tested. If 5 of the tested items have a defect, then what is the probability that an item produced by the machine has NO defect?\n",
+         "choice_a":" 0.80 \n",
+         "choice_b":" 0.85 \n",
+         "choice_c":" 0.95 \n",
+         "choice_d":" 0.90\n",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":27,
+            "grade":7,
+            "name":"Statistics and Probability",
+            "unit":"Grade 11: Unit 5"
+         }
+      },
+      {
+         "ques":"<p>What is the value of <span class=\"math-tex\">\\(\\int \\frac{x^{e-1} + e^{x-1}}{x^{e} + e^{x}} dx\\)</span>?</p>",
+         "choice_a":"<p><span class=\"math-tex\">\\(\\frac{1}{e}ln(x^{e} + e^{x}) + c\\)</span></p>",
+         "choice_b":"<p><span class=\"math-tex\">\\(\\frac{1}{e}ln(x^{e} + e^{x+1}) + c\\)</span></p>",
+         "choice_c":"<p><span class=\"math-tex\">\\(\\frac{1}{e}ln((x+1)^{e} + e^{x+1}) + c\\)</span></p>",
+         "choice_d":"<p><span class=\"math-tex\">\\(\\frac{1}{e}ln(x^{e+1} + e^{x+1}) + c\\)</span></p>",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":37,
+            "grade":8,
+            "name":"Introduction to Integral Calculus",
+            "unit":"Grade 12: Unit 5"
+         }
+      },
+      {
+         "ques":"Which one of the following is a valid argument?\n",
+         "choice_a":" If I donâ€™t change my oil regularly, my engine will die. My engine died, Thus, I didnâ€™t change my oil regularly.\n",
+         "choice_b":" If it rains or snows, then my roof leaks. My roof is leaking. Thus, it is raining and snowing. \n",
+         "choice_c":" If you do every problem in the book, then you will learn the subject. You learned the subject. Thus, you did every problem in the book.\n",
+         "choice_d":" If I am literate, then I can read and write. I can read but I canâ€™t write. Thus I am not literate.\n",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":26,
+            "grade":7,
+            "name":"Mathematical Reasoning",
+            "unit":"Grade 11: Unit 4"
+         }
+      },
+      {
+         "ques":"<p>If the second and fifth terms of a geometric progression are 1/2 and 1/16 respectively, what is the sum of the first eight terms of the sequence?</p>",
+         "choice_a":"<p>255/256</p>",
+         "choice_b":"<p>85/128</p>",
+         "choice_c":"<p>128/85</p>",
+         "choice_d":"<p>256/255</p>",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":33,
+            "grade":8,
+            "name":"Sequences and Series",
+            "unit":"Grade 12: Unit 1"
+         }
+      },
+      {
+         "ques":"<p>For real numbers x and y, which one of the following is NOT true?</p>",
+         "choice_a":"<p><span class=\"math-tex\">\\(\\left ( \\exists x \\right ) (\\forall y)(y\\geq x^{2}+1)\\)</span></p>",
+         "choice_b":"<p><span class=\"math-tex\">\\(\\left ( \\forall x \\right ) (\\exists y)(y\\geq x^{2}+1)\\)</span></p>",
+         "choice_c":"<p><span class=\"math-tex\">\\(\\left ( \\forall x \\right ) (\\forall y)(y^{2}+x^{2}\\geq -1)\\)</span></p>",
+         "choice_d":"<p><span class=\"math-tex\">\\(\\left ( \\exists x \\right ) (\\exists y)(y\\geq x^{2} +1)\\)</span></p>",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":39,
+            "grade":8,
+            "name":"Mathematical Proofs",
+            "unit":"Grade 12: Unit 7"
+         }
+      },
+      {
+         "ques":"There are three children in a room with ages four, five, and six. If a five year old child enters the room, then which of the following statement is correct?\n",
+         "choice_a":" mean age and standard deviation will stay the same.\n",
+         "choice_b":" mean age will stay the same but the standard deviation will increase.\n",
+         "choice_c":" mean age and standard deviation will increase.\n",
+         "choice_d":" mean age will stay the same but the standard deviation will decrease.\n",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":27,
+            "grade":7,
+            "name":"Statistics and Probability",
+            "unit":"Grade 11: Unit 5"
+         }
+      },
+      {
+         "ques":"<p>The marks of 50 students is given below:</p>\r\n\r\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>Marks</td>\r\n\t\t\t<td>0 - 10</td>\r\n\t\t\t<td>10-20</td>\r\n\t\t\t<td>20-30</td>\r\n\t\t\t<td>30-40</td>\r\n\t\t\t<td>40-50</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>No. of students</td>\r\n\t\t\t<td>5</td>\r\n\t\t\t<td>8</td>\r\n\t\t\t<td>f<sub>1</sub></td>\r\n\t\t\t<td>10</td>\r\n\t\t\t<td>f<sub>2</sub></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>If the median of the data is 26, what are the values of f<sub>1</sub> and f<sub>2</sub>?</p>",
+         "choice_a":"<p>f<sub>1</sub>=7, f<sub>2</sub>=20</p>",
+         "choice_b":"<p>f<sub>1</sub>=12, f<sub>2</sub>=15</p>",
+         "choice_c":"<p>f<sub>1</sub>=20, f<sub>2</sub>=7</p>",
+         "choice_d":"<p>f<sub>1</sub>=15, f<sub>2</sub>=12</p>",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":27,
+            "grade":7,
+            "name":"Statistics and Probability",
+            "unit":"Grade 11: Unit 5"
+         }
+      },
+      {
+         "ques":"<p>What is the sum of the infinite series&nbsp;<span class=\"math-tex\">\\(\\sum_{k=0}^{\\infty } 5\\left ( \\frac{2k+5k}{10k} \\right )\\)</span></p>",
+         "choice_a":"<p>15</p>",
+         "choice_b":"<p>65/4</p>",
+         "choice_c":"<p>5</p>",
+         "choice_d":"<p>25/4</p>",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":33,
+            "grade":8,
+            "name":"Sequences and Series",
+            "unit":"Grade 12: Unit 1"
+         }
+      },
+      {
+         "ques":"<p>A water tank is a rectangular parallelepiped with base length 3m, width 2m and height 2.5m. If water is flowing into the tank at the rate of 0.12 m<sup>3</sup>/sec, then how fast does the level of water rise up in the tank?</p>",
+         "choice_a":"<p>0.06 m/sec</p>",
+         "choice_b":"<p>0.03 m/sec</p>",
+         "choice_c":"<p>0.04 m/sec</p>",
+         "choice_d":"<p>0.02 m/sec</p>",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":36,
+            "grade":8,
+            "name":"Applications of Differential Calculus",
+            "unit":"Grade 12: Unit 4"
+         }
+      },
+      {
+         "ques":"<p>The earth&#39;s orbit has a semi-major axis a ~ 149.6 Gm (gigameters) and an eccentricity of e ~ 0.017. What is the approximate value of the semi - minor axis?</p>",
+         "choice_a":"<p>152.14 Gm</p>",
+         "choice_b":"<p>149.58 Gm</p>",
+         "choice_c":"<p>149.06 Gm</p>",
+         "choice_d":"<p>145.32 GM</p>",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":25,
+            "grade":7,
+            "name":"Coordinate Geometry",
+            "unit":"Grade 11: Unit 3"
+         }
+      },
+      {
+         "ques":"<p>What is the solution of&nbsp;<span class=\"math-tex\">\\(\\int 4x(lnx+\\frac{1}{x^{2}})dx\\)</span></p>",
+         "choice_a":"<p><span class=\"math-tex\">\\(x^{2}(2lnx - 1) + 4lnx+c\\)</span></p>",
+         "choice_b":"<p><span class=\"math-tex\">\\(x^{2}(4lnx - 1) + 2lnx+c\\)</span></p>",
+         "choice_c":"<p><span class=\"math-tex\">\\(x^{2}(2lnx + 1) + 4lnx+c\\)</span></p>",
+         "choice_d":"<p><span class=\"math-tex\">\\(4x^{2}(lnx + 1) - 2x^{2} + c\\)</span></p>",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":37,
+            "grade":8,
+            "name":"Introduction to Integral Calculus",
+            "unit":"Grade 12: Unit 5"
+         }
+      },
+      {
+         "ques":"<p>Which one of the following is true about the graph of&nbsp;<span class=\"math-tex\">\\(f(x)=\\frac{x^{2}+5x+6}{x^{2}-4} + 3\\)</span>&nbsp;?</p>",
+         "choice_a":"<p>The graph has a hole at x = 2.</p>",
+         "choice_b":"<p>A horizontal asymptote of the graph is y = 4</p>",
+         "choice_c":"<p>The vertical asymptotes of the graph are x = - 2 and x = 2</p>",
+         "choice_d":"<p>The graph has y - intercept at (0, -3/2)</p>",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":24,
+            "grade":7,
+            "name":"Rational Expressions and Rational Functions.",
+            "unit":"Grade 11: Unit 2"
+         }
+      },
+      {
+         "ques":"<p>If f is the greatest integer function and g is the absolute value function, then what is the value of <span class=\"math-tex\">\\(fog(\\frac{3}{2}) + (gof)(-\\frac{4}{3})\\)</span>?</p>",
+         "choice_a":"<p>3</p>",
+         "choice_b":"<p>1</p>",
+         "choice_c":"<p>-1</p>",
+         "choice_d":"<p>2</p>",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":23,
+            "grade":7,
+            "name":"Further on Relation and Functions",
+            "unit":"Grade 11: Unit 1"
+         }
+      },
+      {
+         "ques":"<p>What is the area of the region bounded by the lines x=0, x=2, and y=1 and the curve y=e<sup>2x</sup>?</p>",
+         "choice_a":"<p><span class=\"math-tex\">\\(\\frac{e^{3}}{3} - \\frac{1}{3}\\)</span></p>",
+         "choice_b":"<p><span class=\"math-tex\">\\(\\frac{e^{2}}{2} - \\frac{1}{2}\\)</span></p>",
+         "choice_c":"<p><span class=\"math-tex\">\\(\\frac{e^{4}}{2} - \\frac{5}{2}\\)</span></p>",
+         "choice_d":"<p><span class=\"math-tex\">\\(-\\frac{e^{4}}{2} + \\frac{5}{2}\\)</span></p>",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":37,
+            "grade":8,
+            "name":"Introduction to Integral Calculus",
+            "unit":"Grade 12: Unit 5"
+         }
+      },
+      {
+         "ques":"<p>If&nbsp;<span class=\"math-tex\">\\(2\\begin{pmatrix}\r\n2x &amp; x\\\\ \r\n-5 &amp; -3\r\n\\end{pmatrix}^{-1} = \\begin{pmatrix}\r\n3 &amp; 2\\\\ \r\n-5 &amp; -4\r\n\\end{pmatrix}\\)</span> , then what is the value of x?</p>",
+         "choice_a":"<p>-2</p>",
+         "choice_b":"<p>-1/2</p>",
+         "choice_c":"<p>1/2</p>",
+         "choice_d":"<p>2</p>",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":28,
+            "grade":7,
+            "name":"Matrices and Determinants",
+            "unit":"Grade 11: Unit 6"
+         }
+      },
+      {
+         "ques":"<p>If <span class=\"math-tex\">\\(f(x)=ax-b\\)</span>&nbsp;and <span class=\"math-tex\">\\(f^{-1}(x+1)= \\frac{1}{2}x+2\\)</span>, for each <span class=\"math-tex\">\\(x\\,\\epsilon \\,\\Re \\)</span>, then what must be the values of a and b?</p>",
+         "choice_a":"<p>a=1/2, b=-2</p>",
+         "choice_b":"<p>a=2, b=2</p>",
+         "choice_c":"<p>a=2, b=3</p>",
+         "choice_d":"<p>a=1, b=1</p>",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":24,
+            "grade":7,
+            "name":"Rational Expressions and Rational Functions.",
+            "unit":"Grade 11: Unit 2"
+         }
+      },
+      {
+         "ques":"<p>If&nbsp;<span class=\"math-tex\">\\(f(x)=ln(2^{tanx})\\)</span> then what is the value of f&#39;(0)?</p>",
+         "choice_a":"<p>ln2/2</p>",
+         "choice_b":"<p>-21n2</p>",
+         "choice_c":"<p>In2</p>",
+         "choice_d":"<p>1</p>",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":35,
+            "grade":8,
+            "name":"Introduction to Differential Calculus",
+            "unit":"Grade 12: Unit 3"
+         }
+      },
+      {
+         "ques":"<p>If <span class=\"math-tex\">\\(f(x)=x^{3}-2x+1\\)</span>, then which one of the following is NOT true?</p>",
+         "choice_a":"<p>f(c)=0 for some <span class=\"math-tex\">\\(c\\,\\epsilon \\, [-2,0]\\)</span></p>",
+         "choice_b":"<p>f(c)= 1/4, for some <span class=\"math-tex\">\\(c\\,\\epsilon \\, [-1,0]\\)</span></p>",
+         "choice_c":"<p>f(c) =1/2 forsome&nbsp;<span class=\"math-tex\">\\(c\\,\\epsilon \\, [0,1]\\)</span></p>",
+         "choice_d":"<p>f(c) =3 for some&nbsp;<span class=\"math-tex\">\\(c\\,\\epsilon \\, [1,2]\\)</span></p>",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":23,
+            "grade":7,
+            "name":"Further on Relation and Functions",
+            "unit":"Grade 11: Unit 1"
+         }
+      },
+      {
+         "ques":"<p>(Image)A man wants to fence two identical rectangular enclosures in a field alongside a straight river as shown in the following figure. What is the maximum area of each enclosure that he can make with 192 meter fencing material if the side along the river does not need a fence?</p>",
+         "choice_a":"<p>1536 m<sup>2</sup></p>",
+         "choice_b":"<p>1564 m<sup>2</sup></p>",
+         "choice_c":"<p>1664 m<sup>2</sup></p>",
+         "choice_d":"<p>1530 m<sup>2</sup></p>",
+         "ans":"a",
+         "image":"/media/exam/questions/Screenshot_2023-01-16_161239.png",
+         "chapter":{
+            "id":36,
+            "grade":8,
+            "name":"Applications of Differential Calculus",
+            "unit":"Grade 12: Unit 4"
+         }
+      },
+      {
+         "ques":"<p>If <span class=\"math-tex\">\\(\\neg p\\Rightarrow r\\)</span> is False and <span class=\"math-tex\">\\(p\\Leftrightarrow q\\)</span>&nbsp;is True, then which of the following is True?&nbsp;</p>",
+         "choice_a":"<p><span class=\"math-tex\">\\(p \\vee (\\neg q \\wedge r)\\)</span></p>",
+         "choice_b":"<p><span class=\"math-tex\">\\(p \\Leftrightarrow  (\\neg q \\vee r)\\)</span></p>",
+         "choice_c":"<p><span class=\"math-tex\">\\(\\neg p \\Rightarrow   (q \\vee r)\\)</span></p>",
+         "choice_d":"<p><span class=\"math-tex\">\\(\\neg p \\wedge    (q \\Rightarrow  r)\\)</span></p>",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":26,
+            "grade":7,
+            "name":"Mathematical Reasoning",
+            "unit":"Grade 11: Unit 4"
+         }
+      },
+      {
+         "ques":"<p>Which one of the following is the set of critical numbers of&nbsp;<span class=\"math-tex\">\\(f(x) = \\frac{3}{8}x^{8/3} - 6x^{2/3}\\)</span>&nbsp;?</p>",
+         "choice_a":"<p>{-2,0,2}</p>",
+         "choice_b":"<p>{-1,1}</p>",
+         "choice_c":"<p>{-1,0,1}</p>",
+         "choice_d":"<p>{-2, 2}</p>",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":35,
+            "grade":8,
+            "name":"Introduction to Differential Calculus",
+            "unit":"Grade 12: Unit 3"
+         }
+      },
+      {
+         "ques":"The center of a circle on the line y=2x and the line x=1 is tangent to the circle at (1,6). How long is the radius of the circle?\n",
+         "choice_a":" 2 \n",
+         "choice_b":" 4 \n",
+         "choice_c":" 3  \n",
+         "choice_d":" 5\n",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":25,
+            "grade":7,
+            "name":"Coordinate Geometry",
+            "unit":"Grade 11: Unit 3"
+         }
+      },
+      {
+         "ques":"<p>If a<sub>1</sub> = 2, a<sub>2</sub> = 6, a<sub>3</sub> = 10, a<sub>4</sub> = 14,...,then&nbsp;<span class=\"math-tex\">\\(\\sum_{n=1}^{100}a_{n}\\)</span> =</p>",
+         "choice_a":"<p>20,000</p>",
+         "choice_b":"<p>20,200</p>",
+         "choice_c":"<p>20,020</p>",
+         "choice_d":"<p>22,000</p>",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":33,
+            "grade":8,
+            "name":"Sequences and Series",
+            "unit":"Grade 12: Unit 1"
+         }
+      },
+      {
+         "ques":"<p>Let <span class=\"math-tex\">\\(f(x) = 2e^{x} - ksinx + 1\\)</span>. If the equation of the tangent line to the graph of f at (0,3) is y=5x+3, then what is the value of K?</p>",
+         "choice_a":"<p>3</p>",
+         "choice_b":"<p>-5</p>",
+         "choice_c":"<p>-3</p>",
+         "choice_d":"<p>2</p>",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":36,
+            "grade":8,
+            "name":"Applications of Differential Calculus",
+            "unit":"Grade 12: Unit 4"
+         }
+      },
+      {
+         "ques":"<p>Among 2000 students who took a regional exam, the percentile of certain student&#39;s score is 90. Which of the following is correct about the student&#39;s score?</p>",
+         "choice_a":"<p>The student&#39;s score is greater than or equal to that of 1800 students.</p>",
+         "choice_b":"<p>The students have answered 90% of the questions correctly.</p>",
+         "choice_c":"<p>The student&#39;s score is the same as the top 10% of the scores.</p>",
+         "choice_d":"<p>The score of the student is as good as that of 90% of the students.</p>",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":27,
+            "grade":7,
+            "name":"Statistics and Probability",
+            "unit":"Grade 11: Unit 5"
+         }
+      },
+      {
+         "ques":"<p>What is the value of&nbsp;<span class=\"math-tex\">\\(\\lim_{x\\rightarrow 2}\\left ( \\frac{x^{3} + 8}{x^{2} - 4} \\right )\\)</span></p>",
+         "choice_a":"<p>2</p>",
+         "choice_b":"<p>The limit does not exist.</p>",
+         "choice_c":"<p>-2</p>",
+         "choice_d":"<p>3</p>",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":34,
+            "grade":8,
+            "name":"Introduction to Limits and Continuity",
+            "unit":"Grade 12: Unit 2"
+         }
+      },
+      {
+         "ques":"<p>What is the greatest lower bound of the sequence&nbsp;<span class=\"math-tex\">\\(\\left \\{ (-1)^{n} \\frac{1}{n+1}\\right \\}_{n=0}^{\\infty } \\)</span></p>",
+         "choice_a":"<p>-1</p>",
+         "choice_b":"<p>-1/2</p>",
+         "choice_c":"<p>0</p>",
+         "choice_d":"<p>1/2</p>",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":34,
+            "grade":8,
+            "name":"Introduction to Limits and Continuity",
+            "unit":"Grade 12: Unit 2"
+         }
+      },
+      {
+         "ques":"<p>What is the value of&nbsp;<span class=\"math-tex\">\\(\\lim_{n\\rightarrow \\infty }(\\frac{3^{n}+2^{n}}{6^{n}})\\)</span>?</p>",
+         "choice_a":"<p>1</p>",
+         "choice_b":"<p><span class=\"math-tex\">\\(\\infty \\)</span></p>",
+         "choice_c":"<p>0</p>",
+         "choice_d":"<p>5/6</p>",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":34,
+            "grade":8,
+            "name":"Introduction to Limits and Continuity",
+            "unit":"Grade 12: Unit 2"
+         }
+      },
+      {
+         "ques":"<p>What is the value of&nbsp;<span class=\"math-tex\">\\(\\lim_{h\\rightarrow 0}\\frac{8(\\frac{1}{2} + h)^{2} - 8(\\frac{1}{2})^{2}}{h}\\)</span></p>",
+         "choice_a":"<p>0</p>",
+         "choice_b":"<p>8</p>",
+         "choice_c":"<p>4</p>",
+         "choice_d":"<p>The limit does not exist</p>",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":34,
+            "grade":8,
+            "name":"Introduction to Limits and Continuity",
+            "unit":"Grade 12: Unit 2"
+         }
+      },
+      {
+         "ques":"<p>Which one of the following is the multiplicative inverse of <span class=\"math-tex\">\\(z=\\frac{3+4i}{4-5i}\\)</span>?</p>",
+         "choice_a":"<p><span class=\"math-tex\">\\(-\\frac{8}{25} - \\frac{31}{25}i\\)</span></p>",
+         "choice_b":"<p><span class=\"math-tex\">\\(-\\frac{8}{25} + \\frac{31}{25}i\\)</span></p>",
+         "choice_c":"<p><span class=\"math-tex\">\\(\\frac{8}{25} - \\frac{31}{25}i\\)</span></p>",
+         "choice_d":"<p><span class=\"math-tex\">\\(\\frac{8}{25} + \\frac{31}{25}i\\)</span></p>",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":29,
+            "grade":7,
+            "name":"The Set of Complex Numbers",
+            "unit":"Grade 11: Unit 7"
+         }
+      },
+      {
+         "ques":"<p>If A is a 3 x 3 matrix and det (A) = 5, then how much is det(2A<sup>T</sup>A)?</p>",
+         "choice_a":"<p>50</p>",
+         "choice_b":"<p>100</p>",
+         "choice_c":"<p>200</p>",
+         "choice_d":"<p>20</p>",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":28,
+            "grade":7,
+            "name":"Matrices and Determinants",
+            "unit":"Grade 11: Unit 6"
+         }
+      },
+      {
+         "ques":"<p>Which one of the following is true about the pair of lines:</p>\r\n\r\n<p>3x + 9y - 24 = 0 and 4x + 12y + 32 = 0?</p>",
+         "choice_a":"<p>perpendicular lines</p>",
+         "choice_b":"<p>intersecting lines</p>",
+         "choice_c":"<p>representing the same lines</p>",
+         "choice_d":"<p>parallel and distinct lines</p>",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":25,
+            "grade":7,
+            "name":"Coordinate Geometry",
+            "unit":"Grade 11: Unit 3"
+         }
+      },
+      {
+         "ques":"<p>If <span class=\"math-tex\">\\(F(x)=\\int_{0}^{x}e^{-1}dt\\)</span>, then what is the value of F&#39;(x)?</p>",
+         "choice_a":"<p><span class=\"math-tex\">\\(\\frac{e^{-x+1}}{-x+1}\\)</span></p>",
+         "choice_b":"<p><span class=\"math-tex\">\\(-e^{-x}-1\\)</span></p>",
+         "choice_c":"<p><span class=\"math-tex\">\\(e^{-x}\\)</span></p>",
+         "choice_d":"<p><span class=\"math-tex\">\\(-e^{-x}\\)</span></p>",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":35,
+            "grade":8,
+            "name":"Introduction to Differential Calculus",
+            "unit":"Grade 12: Unit 3"
+         }
+      },
+      {
+         "ques":"<p>If there are two children in a family, what is the probability that there is at least one girl in the family?</p>",
+         "choice_a":"<p>1/2</p>",
+         "choice_b":"<p>3/4</p>",
+         "choice_c":"<p>1/4</p>",
+         "choice_d":"<p>2/3</p>",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":27,
+            "grade":7,
+            "name":"Statistics and Probability",
+            "unit":"Grade 11: Unit 5"
+         }
+      },
+      {
+         "ques":"Everyday a person saves 5 cents more than the amount he saved on the previous day. His target is to save the total amount of 3225 cents by the end of 30 days. How much must be the starting saving to meet the target?\n",
+         "choice_a":" 60 cents \n",
+         "choice_b":" 25 cents \n",
+         "choice_c":" 50 cents \n",
+         "choice_d":" 35 cents\n",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":40,
+            "grade":8,
+            "name":"Further on Statistics",
+            "unit":"Grade 12: Unit 8"
+         }
+      },
+      {
+         "ques":"<p>What is the value of <span class=\"math-tex\">\\(\\int_{1}^{2}\\frac{1nx}{x^{2}}dx\\)</span>?</p>",
+         "choice_a":"<p><span class=\"math-tex\">\\(-\\frac{ln2}{2} - \\frac{1}{2}\\)</span></p>",
+         "choice_b":"<p><span class=\"math-tex\">\\(\\frac{ln2}{2} - \\frac{1}{2}\\)</span></p>",
+         "choice_c":"<p><span class=\"math-tex\">\\(\\frac{ln2}{2} + \\frac{1}{2}\\)</span></p>",
+         "choice_d":"<p><span class=\"math-tex\">\\(-\\frac{ln2}{2} + \\frac{1}{2}\\)</span></p>",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":35,
+            "grade":8,
+            "name":"Introduction to Differential Calculus",
+            "unit":"Grade 12: Unit 3"
+         }
+      },
+      {
+         "ques":"<p>If the circle passing through the point (-1,0) touches the y-axis at (0,2), then what is the equation of the circle?</p>",
+         "choice_a":"<p>x<sup>2</sup>+y<sup>2</sup>+5x+4y+4=0</p>",
+         "choice_b":"<p>x<sup>2</sup>+y<sup>2</sup>+5x-4y+4=0</p>",
+         "choice_c":"<p>x<sup>2</sup>+y<sup>2</sup> -5x-4y+4=0</p>",
+         "choice_d":"<p>x<sup>2</sup>+y<sup>2</sup>-5x+4y+4=0</p>",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":25,
+            "grade":7,
+            "name":"Coordinate Geometry",
+            "unit":"Grade 11: Unit 3"
+         }
+      },
+      {
+         "ques":"<p>Let z be a complex number and w = 3 + 4i, if&nbsp;<span class=\"math-tex\">\\(\\frac{z^{2} + 1}{z+i}=\\left | w \\right |z-\\frac{1}{i}\\bar{w}\\)</span> then what is the value of z?</p>",
+         "choice_a":"<p>-1 - i</p>",
+         "choice_b":"<p>4 - 2i</p>",
+         "choice_c":"<p>-1 + i</p>",
+         "choice_d":"<p>-4 - 2i</p>",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":29,
+            "grade":7,
+            "name":"The Set of Complex Numbers",
+            "unit":"Grade 11: Unit 7"
+         }
+      },
+      {
+         "ques":"<p>Which one of the following is equal <span class=\"math-tex\">\\(f(x) = \\sqrt{(x+4)^{2}}\\)</span>,for every <span class=\"math-tex\">\\(x\\,\\epsilon \\,\\Re \\)</span>?</p>",
+         "choice_a":"<p>g(x)=x+4</p>",
+         "choice_b":"<p>g(x)=|x+4|</p>",
+         "choice_c":"<p>g(x)=x+2</p>",
+         "choice_d":"<p>g(x)=|x|+4</p>",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":23,
+            "grade":7,
+            "name":"Further on Relation and Functions",
+            "unit":"Grade 11: Unit 1"
+         }
+      },
+      {
+         "ques":"<p>What is the value of the left-hand side limit,&nbsp;<span class=\"math-tex\">\\(\\lim_{x\\rightarrow 0} \\frac{sinx}{x^{2}}\\sqrt{4x^{3}+9x^{2}}\\)</span></p>",
+         "choice_a":"<p>3</p>",
+         "choice_b":"<p>-3</p>",
+         "choice_c":"<p>2</p>",
+         "choice_d":"<p>Does not exist</p>",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":34,
+            "grade":8,
+            "name":"Introduction to Limits and Continuity",
+            "unit":"Grade 12: Unit 2"
+         }
+      },
+      {
+         "ques":"<p>If&nbsp;<span class=\"math-tex\">\\(\\begin{vmatrix}\r\n-1 &amp; 1 &amp; 2\\\\ \r\n3 &amp; 2 &amp; x\\\\ \r\n2 &amp; 4 &amp; 1\r\n\\end{vmatrix}\\)</span> = <span class=\"math-tex\">\\(\\begin{vmatrix}\r\n-x &amp; 3 &amp; 2\\\\ \r\n2 &amp; 2 &amp; 3\\\\ \r\n1 &amp; -1 &amp; -2\r\n\\end{vmatrix}\\)</span>, then what is the value of x?</p>",
+         "choice_a":"<p>-2/3</p>",
+         "choice_b":"<p>-2/5</p>",
+         "choice_c":"<p>2/3</p>",
+         "choice_d":"<p>2/5</p>",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":28,
+            "grade":7,
+            "name":"Matrices and Determinants",
+            "unit":"Grade 11: Unit 6"
+         }
+      },
+      {
+         "ques":"<p>Consider the following system of equations:&nbsp;<span class=\"math-tex\">\\(\\begin{Bmatrix}\r\nx-2y+z=1\\\\ \r\n-x+y+z=3\\\\ \r\n3x-5y+z=k\r\n\\end{Bmatrix}\\)</span></p>\r\n\r\n<p>How much must be the value of k so that the system has a solution?</p>",
+         "choice_a":"<p>-1</p>",
+         "choice_b":"<p>1</p>",
+         "choice_c":"<p>0</p>",
+         "choice_d":"<p>7</p>",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":28,
+            "grade":7,
+            "name":"Matrices and Determinants",
+            "unit":"Grade 11: Unit 6"
+         }
+      },
+      {
+         "ques":"<p>What is the simplified form of <span class=\"math-tex\">\\(\\frac{a^{-1}b^{-1}}{a^{-3}-b^{-3}}\\)</span>?</p>",
+         "choice_a":"<p><span class=\"math-tex\">\\(\\frac{a^{2}b^{2}}{b^{2}-a^{2}}\\)</span></p>",
+         "choice_b":"<p><span class=\"math-tex\">\\(\\frac{a^{3}-b^{3}}{ab}\\)</span></p>",
+         "choice_c":"<p><span class=\"math-tex\">\\(\\frac{a^{2}b^{2}}{b^{3}-a^{3}}\\)</span></p>",
+         "choice_d":"<p><span class=\"math-tex\">\\(\\frac{a^{3}-b^{3}}{a-b}\\)</span></p>",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":24,
+            "grade":7,
+            "name":"Rational Expressions and Rational Functions.",
+            "unit":"Grade 11: Unit 2"
+         }
+      },
+      {
+         "ques":"<p>If&nbsp;<span class=\"math-tex\">\\(f(x)=ax^{3}+\\frac{b}{x}+5\\)</span> has local minimum at (2, - 3), what are the values of a and b?</p>",
+         "choice_a":"<p>a=-1/4, b=-12</p>",
+         "choice_b":"<p>a=-1/4, b=12</p>",
+         "choice_c":"<p>a=1/4, b=12</p>",
+         "choice_d":"<p>a=1/4, b=-12</p>",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":36,
+            "grade":8,
+            "name":"Applications of Differential Calculus",
+            "unit":"Grade 12: Unit 4"
+         }
+      }
+   ]
+}

@@ -1,0 +1,2338 @@
+{
+    "type_name_grade_subject_exam": {
+        "id": 32,
+        "exam": 86,
+        "type_name_grade_subject": {
+            "id": 64,
+            "subject": {
+                "id": 18,
+                "name": "Medicine"
+            },
+            "type_name_grade": {
+                "id": 11,
+                "grade": {
+                    "id": 9,
+                    "name": "13"
+                },
+                "type_name": {
+                    "id": 5,
+                    "name": "COC",
+                    "creator_type": {
+                        "id": 3,
+                        "name": "National"
+                    }
+                }
+            }
+        }
+    },
+    "exam": {
+        "name": "Medicine COC 2018 Part 2",
+        "time": 180,
+        "subject": 18,
+        "code": 86,
+        "grade": "13",
+        "price": 10.0,
+        "questions": [
+            {
+                "id": 5641,
+                "ques": "What is the most likely test that should be done?",
+                "choice_a": "Cervical HPV DNA testing",
+                "choice_b": "Chlamydia Antibody test",
+                "choice_c": "Colposcopy",
+                "choice_d": "Cervical cytology screening",
+                "ans": "B",
+                "explanation": "Given the patient's age, sexual activity, inconsistent condom use, and vaginal discharge, Chlamydia is a highly likely sexually transmitted infection. An antibody test is not the best choice. A nucleic acid amplification test (NAAT) is the preferred test for Chlamydia.",
+                "note": "A 20 year old null-gravida comes to the OPD for an annual examination and to re-fill her oral contraceptives. She has recently noted a vaginal discharge. She has been sexually active for 3 years and is inconsistent with condom use.",
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 586,
+                    "grade": 9,
+                    "name": "Pelvic Infections and STIs",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 137,
+                    "name": "Sexually Transmitted Infection( STIs)"
+                }
+            },
+            {
+                "id": 5642,
+                "ques": "What is the most common chest x-ray finding?",
+                "choice_a": "Consolidation",
+                "choice_b": "Hilar lymphadenopaty",
+                "choice_c": "Massive pleural effusion",
+                "choice_d": "Lung cyst.",
+                "ans": "A",
+                "explanation": "Given the patient's symptoms (cough, chest pain, fever) and the physical exam finding of crepitation and dullness in the right upper chest field, consolidation is the most likely finding on chest x-ray, indicating pneumonia.",
+                "note": "20 year old patient came from rural area with cough, chest pain and fever of one week duration. He denied any illness prior to this episode .On physical examination he is well looking and on chest examination there is crepitation and relative dullness on right upper chest field. The rest of chest is clear.",
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 564,
+                    "grade": 9,
+                    "name": "Respiratory diseases",
+                    "unit": "Internal Medicine"
+                },
+                "sub_chapter": {
+                    "id": 17,
+                    "name": "Pneumonia"
+                }
+            },
+            {
+                "id": 5643,
+                "ques": "What is the most likely diagnosis for this case?",
+                "choice_a": "Chronic osteomyelitis",
+                "choice_b": "Mycetoma",
+                "choice_c": "Ewings sarcoma",
+                "choice_d": "Osteogenic sarcoma",
+                "ans": "D",
+                "explanation": "Given the patient's age (22 years old) and the description of the lesion (mixed sclerotic and lytic bone lesion in the distal femur), osteogenic sarcoma is the most likely diagnosis.",
+                "note": "22 year old male patient came with swelling and pain of left lower thigh of one and half years duration. X-ray showed mixed distal femoral sclerotic and lytic bone lesion with normal knee joint space and articular cartilage.",
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 573,
+                    "grade": 9,
+                    "name": "Orthopedics",
+                    "unit": "Surgery"
+                },
+                "sub_chapter": {
+                    "id": 66,
+                    "name": "Soft tissue and bone tumors"
+                }
+            },
+            {
+                "id": 5644,
+                "ques": "What would be the next step?",
+                "choice_a": "Prepare for emergency CS",
+                "choice_b": "Start augmentation",
+                "choice_c": "Prepare for routine delivery",
+                "choice_d": "Apply outlet forceps",
+                "ans": "C",
+                "explanation": "The patient is fully dilated with the presenting part at the pelvic floor, and the liquor is clear. Although the FHR is slightly low (110 bpm), preparing for routine delivery is the most appropriate next step, with close monitoring of the fetal heart rate. If the FHR continues to be low or shows other signs of distress, further intervention may be necessary.",
+                "note": "26 years old primi-gravid presented to the labor ward after being referred from a health center after laboring for 6 hours. The membrane ruptured on the way to the hospital and her ANC revealed no identified risk. Upon presentation, she was in labor pain and her vital signs were stable, per vaginal examination showed a fully dilated cervix with the presenting part at the pelvic floor and the liquor was clear. The FHR persistently demonstrated a count of 110 bpm.",
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 582,
+                    "grade": 9,
+                    "name": "Labor and Delivery",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 122,
+                    "name": "Intrapartum Care"
+                }
+            },
+            {
+                "id": 5645,
+                "ques": "What is the preferred treatment this case?",
+                "choice_a": "Terbinafin cream",
+                "choice_b": "Permethrin lotion",
+                "choice_c": "Mometasonefurate cream",
+                "choice_d": "Fusidic acid cream",
+                "ans": "C",
+                "explanation": "Given the infant's age, presentation (dry skin, recurrent erythematous papules on cheeks, scalp, and extensor extremities), family history of atopy (asthma and sinusitis), and the failure of emollients, the most likely diagnosis is atopic dermatitis (eczema). Topical corticosteroids, such as mometasone furoate cream, are a preferred treatment for atopic dermatitis.",
+                "note": "A 1 year-old infant presents with dry skin and few recurrent erythematous papules over his cheeks, scalp and extensor part of his extremities of 6 month duration. He has been applying emollients but still has developed new lesions. His mother has a history of asthma and his father has a history of sinusitis.",
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 593,
+                    "grade": 9,
+                    "name": "Pediatrics Out Of Neonatal Age",
+                    "unit": "Pediatrics and Child Health"
+                },
+                "sub_chapter": {
+                    "id": 176,
+                    "name": "Dermatologic disorders (Impetigo, Dermatophyte infection, Scabies, Atopic dermatitis)"
+                }
+            },
+            {
+                "id": 5646,
+                "ques": "What laboratory findings are consistent with the clinical condition of the patient?",
+                "choice_a": "Low Ca+2, normal phosphorus and high PTH",
+                "choice_b": "Low Ca+2, low phosphorus and low PTH",
+                "choice_c": "Normal Ca+2, normal phosphorus and high PTH",
+                "choice_d": "Normal Ca+2, low phosphorus and high PTH",
+                "ans": "A",
+                "explanation": "The patient's history of poor sunlight exposure, recurrent pneumonia, large anterior fontanel, and Harrison's groove are consistent with rickets (vitamin D deficiency). In rickets, calcium levels are typically low, phosphorus levels can be normal or low, and PTH levels are elevated due to secondary hyperparathyroidism.",
+                "note": "A 10 month old child was admitted for the second time with the diagnosis of pneumonia. On further history retrieving the patient had poor history of sunlight exposure. On physical examination anterior fontanel is 3.5 cm and has Harrisons groove.",
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 591,
+                    "grade": 9,
+                    "name": "General Pediatrics",
+                    "unit": "Pediatrics and Child Health"
+                },
+                "sub_chapter": {
+                    "id": 156,
+                    "name": "Nutrition"
+                }
+            },
+            {
+                "id": 5647,
+                "ques": "The most important investigative modality is?",
+                "choice_a": "CT Scan",
+                "choice_b": "X-ray",
+                "choice_c": "MRI",
+                "choice_d": "Doppler ultrasound",
+                "ans": "D",
+                "explanation": "Given the acute onset of testicular pain and normal lab examination, testicular torsion is a major concern. Doppler ultrasound is the most important investigative modality to evaluate blood flow to the testicle and rule out testicular torsion.",
+                "note": "A 10 year old boy came with testicular pain of 5 hours duration to you and all lab examination is normal. You want to send him to radiology department and investigate him.",
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 577,
+                    "grade": 9,
+                    "name": "Urology",
+                    "unit": "Surgery"
+                },
+                "sub_chapter": {
+                    "id": 100,
+                    "name": "Testicular torsion and epididymoorchitis"
+                }
+            },
+            {
+                "id": 5648,
+                "ques": "What is the most important predictor of future epilepsy in this child?",
+                "choice_a": "Recurrent febrile seizures",
+                "choice_b": "Fever greater than an hour before febrile seizure",
+                "choice_c": "Neurodevelopmental abnormalities",
+                "choice_d": "Complex febrile seizure",
+                "ans": "C",
+                "explanation": "Neurodevelopmental abnormalities are the most important predictor of future epilepsy in a child presenting with a febrile seizure.",
+                "note": "A 12-month-old male child is evaluated for a five-minute long generalized tonic-clonic seizure associated with a temperature of 39.5 0C.",
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 635,
+                    "grade": 9,
+                    "name": "Neurologic diseases (Childhood seizure disorder, CNS infections, Cerebral palsy)",
+                    "unit": "Pediatrics and Child Health"
+                },
+                "sub_chapter": {
+                    "id": 322,
+                    "name": "General"
+                }
+            },
+            {
+                "id": 5649,
+                "ques": "What is the likely etiology of diarrhea for this boy?",
+                "choice_a": "E. coli O157:H7",
+                "choice_b": "Shigella species",
+                "choice_c": "Campylobacter spp.",
+                "choice_d": "Entamoeba histolytica",
+                "ans": "C",
+                "explanation": "The most likely etiology of diarrhea in a 14-year-old boy presenting with recurrent episodes of blood in the urine (suggesting hemolytic uremic syndrome - HUS) following a diarrheal illness is E. coli O157:H7. However, the provided answer is Campylobacter spp. which can also cause HUS, although less commonly. Given the options, Campylobacter is the most appropriate answer.",
+                "note": "A 14-year old boy who had history of watery diarrhea for 4 days now presents with a complaint of recurrent episodes of blood in the urine. Urine analysis revealed proteinuria and hematuria. You suspect that this could be a renal complication following the acute gastroenteritis state.",
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 642,
+                    "grade": 9,
+                    "name": "Gastrointestinal diseases (Diarrheal diseases, Amebiasis and Giardiasis, Hepatitis, Oral/esophageal Candidiasis, Intussusception, Appendicitis, Pyloric stenosis)",
+                    "unit": "Pediatrics and Child Health"
+                },
+                "sub_chapter": {
+                    "id": 331,
+                    "name": "General"
+                }
+            },
+            {
+                "id": 5650,
+                "ques": "What is the most likely cause of the patients condition?",
+                "choice_a": "Echinococcus granulosus",
+                "choice_b": "Trichinela spiralis",
+                "choice_c": "Strongiloides stercolaris",
+                "choice_d": "Onchocerca volvulus",
+                "ans": "B",
+                "explanation": "The description of striated muscle with eosinophilic infiltrate around calcified larvae is characteristic of Trichinella spiralis infection.",
+                "note": "A 15 year old male child noticed asymmetric right thigh enlargement. His parents took him to hospital where imaging revealed soft tissue swelling. Biopsy was done for confirmation which revealed striated muscle with intervening eosinophilic rich mononuclear cell infiltrate around calcified larvae.",
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 637,
+                    "grade": 9,
+                    "name": "Infectious diseases (Measles, Pertussis, Poliomyelitis, Tetanus, Diphtheria, HIV/AIDS, Tuberculosis, Malaria, Typhoid fever, Relapsing fever, Typhus)",
+                    "unit": "Pediatrics and Child Health"
+                },
+                "sub_chapter": {
+                    "id": 324,
+                    "name": "General"
+                }
+            },
+            {
+                "id": 5651,
+                "ques": "What is the best choice of treatment?",
+                "choice_a": "Hysteroscopic ablation",
+                "choice_b": "Conjugated estrogen",
+                "choice_c": "Sharp curettage",
+                "choice_d": "High dose progestin",
+                "ans": "B",
+                "explanation": "Given the patient's age (16 years old), heavy vaginal bleeding after a delayed menses, negative pregnancy test, and thin endometrium, the most likely cause is anovulatory bleeding. Conjugated estrogen is the best choice of treatment to stabilize the endometrium and stop the bleeding.",
+                "note": "A 16 year old girl presents with heavy vaginal bleeding after a two month delay in her menses. Pregnancy test is negative and ultrasound shows a thin endometrium. No coagulation or anatomical defect were identified.",
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 587,
+                    "grade": 9,
+                    "name": "Benign Gynecologic Conditions",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 140,
+                    "name": "Abnormal Uterine Bleeding (AUB)"
+                }
+            },
+            {
+                "id": 5652,
+                "ques": "What is the most likely diagnosis?",
+                "choice_a": "Inverted papilloma",
+                "choice_b": "Antrochoanal polyp",
+                "choice_c": "Juvenile nasopharyngeal angiofibroma",
+                "choice_d": "Olifactory neuroblastoma",
+                "ans": "C",
+                "explanation": "The combination of recurrent epistaxis, nasal obstruction, proptosis, cheek swelling, reddish polypoid mass in the nasal cavity, widening of the pterygopalatine fossa, and anterior bowing of the posterior wall of the maxillary sinus in a 16-year-old male is highly suggestive of juvenile nasopharyngeal angiofibroma.",
+                "note": "A 16 year old male patient came with the chief complaint of right side recurrent epistaxis with nasal obstruction of six month duration. Since last month the bleeding become severe and he has also started to develop proptosis and cheek swelling. Anterior rhinoscopic examination shows reddish polypoid mass in the right nasal cavity. Paranasal sinus CT shows widening of the pytergopalatine fossa with extension of the mass in to the right side nasal cavity and anterior bowing of posterior wall of maxillary sinus.",
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 597,
+                    "grade": 9,
+                    "name": "Head and neck tumors",
+                    "unit": "ENT"
+                },
+                "sub_chapter": {
+                    "id": 196,
+                    "name": "Sinonasal tumors"
+                }
+            },
+            {
+                "id": 5653,
+                "ques": "What is the most reliable sign for the above case?",
+                "choice_a": "Periosteal reaction of different type",
+                "choice_b": "Presence of sequestration",
+                "choice_c": "Loss of muscle fat plane in different degree",
+                "choice_d": "Laminar type of callus formation",
+                "ans": "C",
+                "explanation": "In a 19-year-old with fever and femur pain, concerning for osteomyelitis, loss of the muscle fat plane is the most reliable sign on X-ray, indicating soft tissue inflammation and edema.",
+                "note": "A 19 year old boy came with fever and pain of left femur of six days duration. Physical examination showed temperature of 38.50C. and local tenderness on proximal left femur. You ordered x-ray of the femur.",
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 573,
+                    "grade": 9,
+                    "name": "Orthopedics",
+                    "unit": "Surgery"
+                },
+                "sub_chapter": {
+                    "id": 58,
+                    "name": "Osteomyelitis"
+                }
+            },
+            {
+                "id": 5654,
+                "ques": "What is the most likely explanation for the fall in BP?",
+                "choice_a": "Anesthesia",
+                "choice_b": "Magnesium sulfate",
+                "choice_c": "Diuresis",
+                "choice_d": "Hemorrhage",
+                "ans": "D",
+                "explanation": "Postpartum hemorrhage is a common cause of hypotension after delivery, especially after a cesarean section. The sudden drop in blood pressure after delivery is most likely due to blood loss during the procedure.",
+                "note": "A 19 year old primi gravida at term was complaining headache and blurring of vision. Her BP was 180/95 mmHg. She was stabilized and cesarean delivery was done for failed induction. After one hour of the delivery her BP was 110/70mmHg.",
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 582,
+                    "grade": 9,
+                    "name": "Labor and Delivery",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 123,
+                    "name": "Postpartum Care"
+                }
+            },
+            {
+                "id": 5655,
+                "ques": "What is the major cause of morbidity and mortality in acute poisoning with acetaminophen?",
+                "choice_a": "Hepatic injury",
+                "choice_b": "Gastric bleeding",
+                "choice_c": "Hypoglycemia",
+                "choice_d": "Metabolic acidosis",
+                "ans": "A",
+                "explanation": "Hepatic injury is the major cause of morbidity and mortality in acute acetaminophen poisoning.",
+                "note": "A 2-year-old is found with an opened empty bottle of acetaminophen tablets and has pill fragments in his mouth.",
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 626,
+                    "grade": 9,
+                    "name": "Adult Emergency and critical care",
+                    "unit": "Emergency and Critical Care"
+                },
+                "sub_chapter": {
+                    "id": 288,
+                    "name": "Poisoning"
+                }
+            },
+            {
+                "id": 5656,
+                "ques": "What is the most likely interpretation of the result?",
+                "choice_a": "Conductive hearing loss in the left ear",
+                "choice_b": "Sensory neural hearing loss in left ear",
+                "choice_c": "Conductive hearing loss in the right ear",
+                "choice_d": "Sensory neural hearing loss in right ear",
+                "ans": "C",
+                "explanation": "Rinne test positive in the left ear means air conduction is better than bone conduction in the left ear (normal or sensorineural hearing loss). Rinne test negative in the right ear means bone conduction is better than air conduction in the right ear (conductive hearing loss). Weber test lateralizing to the right ear confirms conductive hearing loss in the right ear.",
+                "note": "A 20 year old female patient visited ENT clinic with the complaint of hearing decrement of three month duration. Tunning fork examination shows rinne test is positive in the left ear and negative in the right ear. Weber test shows lateralization to the right ear.",
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 594,
+                    "grade": 9,
+                    "name": "Otologic disorders",
+                    "unit": "ENT"
+                },
+                "sub_chapter": {
+                    "id": 184,
+                    "name": "Inner ear disease"
+                }
+            },
+            {
+                "id": 5657,
+                "ques": "A 20 year old primigravida lady at 31 weeks of gestation presents with a gush of fluid per vagina of one day duration. She has no fever or abdominal pain. Examination shows no active leak through the cervical OS. Pad test was also non-revealing. Ultrasound suggests a decrease in Amniotic fluid. What is the most sensitive test that you can do from the amniotic fluid?",
+                "choice_a": "WBC",
+                "choice_b": "IL6",
+                "choice_c": "Gram stain",
+                "choice_d": "CRP",
+                "ans": "B",
+                "explanation": "IL-6 is the most sensitive marker for detecting intra-amniotic infection, even in the absence of clinical signs.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 584,
+                    "grade": 9,
+                    "name": "Late Pregnancy Complications",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 131,
+                    "name": "Preterm labor and Premature Rupture of Membranes"
+                }
+            },
+            {
+                "id": 5658,
+                "ques": "A 20 year-old man is brought to the emergency department after exhibiting bizarre behavior. For at least one year, he experienced delusions and auditory hallucinations. The hallucinations consist of several voices commenting on the patients behavior and giving him commands. He became socially isolated and dysfunctional as a result of these symptoms. He denies current drug use or medical problems. What is the most likely diagnosis?",
+                "choice_a": "Brief psychotic disorder",
+                "choice_b": "schizoaffective disorder",
+                "choice_c": "Schizophrenia",
+                "choice_d": "psychosis secondary to substance abuse",
+                "ans": "C",
+                "explanation": "The patient's symptoms, including delusions, auditory hallucinations, social isolation, and dysfunction lasting for at least one year, are consistent with the diagnostic criteria for schizophrenia.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 606,
+                    "grade": 9,
+                    "name": "Schizophrenia related disorders",
+                    "unit": "Psychiatry and Mental Health"
+                },
+                "sub_chapter": {
+                    "id": 224,
+                    "name": "Schizophrenia"
+                }
+            },
+            {
+                "id": 5659,
+                "ques": "A 20-year-old girl has a six-month history of excessive showering, up to five hours at a time. This showering is preceded by recurrent thoughts of being dirty or unclean. The patient becomes increasingly anxious because of these thoughts unless she is able to shower. She has a particular order of showering that must be followed or she must start over again. The patient is aware of the abnormal nature of her thoughts and behavior and is distressed by them. What is the best treatment modality for the above patient?",
+                "choice_a": "Behavioral therapy",
+                "choice_b": "Counselling",
+                "choice_c": "Psycho-education",
+                "choice_d": "Psycho dynamic psychotherapy",
+                "ans": "A",
+                "explanation": "Behavioral therapy, specifically exposure and response prevention (ERP), is the first-line treatment for obsessive-compulsive disorder (OCD).",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 612,
+                    "grade": 9,
+                    "name": "An obsessive-compulsive and related disorder",
+                    "unit": "Psychiatry and Mental Health"
+                },
+                "sub_chapter": {
+                    "id": 332,
+                    "name": "choice not given"
+                }
+            },
+            {
+                "id": 5660,
+                "ques": "A 21 year old Para-I has just gave birth to a 2700gm neonate. Right after the delivery her BP was 170/100 mmHg. She started to have profuse vaginal bleeding where it was difficult to control with bimanual compression and oxytocin infusion. What is the next best intervention is?",
+                "choice_a": "PGF2 alpha",
+                "choice_b": "Dilatation and Curettage",
+                "choice_c": "Ergometrine",
+                "choice_d": "B lynch suture",
+                "ans": "A",
+                "explanation": "Given the uncontrolled bleeding despite initial measures, PGF2 alpha (Prostaglandin F2 alpha) is the next appropriate step to control postpartum hemorrhage, especially considering the elevated blood pressure, which may contraindicate ergometrine.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 582,
+                    "grade": 9,
+                    "name": "Labor and Delivery",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 123,
+                    "name": "Postpartum Care"
+                }
+            },
+            {
+                "id": 5661,
+                "ques": "A 22 year old primi gravida at 16 weeks of gestation was prescribed nitrofurantoin after a urine test reveals a 105 colony forming unit of E. coil. She was counseled about the possibility of having ascending upper urinary tract infection. What is the most likely outcome of this pregnancy?",
+                "choice_a": "Esophageal atresia",
+                "choice_b": "Macrosomia",
+                "choice_c": "Neural tube defect",
+                "choice_d": "Low birth weight",
+                "ans": "D",
+                "explanation": "Ascending upper urinary tract infections (pyelonephritis) during pregnancy are associated with an increased risk of preterm labor and low birth weight.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 583,
+                    "grade": 9,
+                    "name": "Medical disorders in pregnancy",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 333,
+                    "name": "UTI (Urinary Tract Infection)"
+                }
+            },
+            {
+                "id": 5662,
+                "ques": "A 24-year-old lady gravida 2, para 1 at 37 weeks of gestation presents to the emergency unit with malaise, chills, and vomiting. Her temperature is 38.1 0C, blood pressure 110/70 mmHg, pulse is 100/min, and her respirations are 18/min. She has uterine tenderness. Her cervical examination is 2 to 3 cm dilated, 40% effaced, vertex at -1 station and membrane raptured. Mild-to-moderate contractions are palpated and recorded every 5 to 10 minutes. Urinalysis shows no evidence of bacteria. What are the most appropriate next step in managing this lady?",
+                "choice_a": "Give steroids for enhancing fetal lung maturity",
+                "choice_b": "Fetal fibronectin testing",
+                "choice_c": "Administration of intravenous antibiotics and induction of labor",
+                "choice_d": "Treatment with magnesium sulfate for tocolysis",
+                "ans": "C",
+                "explanation": "The patient's presentation is highly suggestive of chorioamnionitis. The appropriate management is intravenous antibiotics and induction of labor.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 582,
+                    "grade": 9,
+                    "name": "Labor and Delivery",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 122,
+                    "name": "Intrapartum Care"
+                }
+            },
+            {
+                "id": 5663,
+                "ques": "A 25 year old primi gravida comes to your clinic for a quest of transfer to other hospital for delivery. She is currently 36 weeks. She was diagnosed to have HIV at first screening and was put on HAART since then. Her pregnancy otherwise was uncomplicated. A recent viral Load was 2000 copies/ml and CD4count of 250/mm3. What is the most likely method and timing of delivery to reduce the risk of mother to child transmission is?",
+                "choice_a": "Cesarean delivery at 38 week",
+                "choice_b": "Vaginal delivery at 37 weeks",
+                "choice_c": "Vaginal delivery at 39 weeks",
+                "choice_d": "Cesarean delivery at 39 week",
+                "ans": "A",
+                "explanation": "Given the viral load is >1000 copies/mL, a Cesarean delivery at 38 weeks is recommended to minimize the risk of vertical transmission of HIV.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 583,
+                    "grade": 9,
+                    "name": "Medical disorders in pregnancy",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 325,
+                    "name": "HIV/AIDS"
+                }
+            },
+            {
+                "id": 5664,
+                "ques": "A 25 year-old female patient presented with productive cough of 2 weeks. Physical examination  vital sign- BP: 120/70mmHg, PR: 96/min, Temp: 380c, chest has bilateral rhales. Laboratory investigation: sputum AFB positive. What is the most likely type of hypersensitivity reaction?",
+                "choice_a": "Hypersensitivity IV",
+                "choice_b": "Hypersensitivity III",
+                "choice_c": "Hypersensitivity I",
+                "choice_d": "Hypersensitivity II",
+                "ans": "A",
+                "explanation": "Tuberculosis is a type IV hypersensitivity reaction (delayed type hypersensitivity) mediated by T cells.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 562,
+                    "grade": 9,
+                    "name": "Infectious diseases",
+                    "unit": "Internal Medicine"
+                },
+                "sub_chapter": {
+                    "id": 1,
+                    "name": "Mycobacterial infections"
+                }
+            },
+            {
+                "id": 5665,
+                "ques": "A 26 year old gravida-I mother came for ANC follow-up. U/S demonstrated a twin pregnancy. It also showed a bilateral adnexal mass. The most likely cause is?",
+                "choice_a": "Corpus luteum Cyst",
+                "choice_b": "Follicular cyst",
+                "choice_c": "Dermoid cyst",
+                "choice_d": "Theca lutein cyst",
+                "ans": "D",
+                "explanation": "Theca lutein cysts are often associated with multiple gestations (twin pregnancy) due to elevated hCG levels.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 584,
+                    "grade": 9,
+                    "name": "Late Pregnancy Complications",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 132,
+                    "name": "Multiple gestations"
+                }
+            },
+            {
+                "id": 5666,
+                "ques": "A 26 year old para-I woman was admitted and emergency cesarean delivery done for obstructed labor. At 3rd post-operative day, she had a shooting fever with foul smelling vaginal discharge and a sub-involuted uterus. She was taking a combination of clindamycin and gentamycin but has not responded. What organism is the most likely etiology?",
+                "choice_a": "Enterococcus",
+                "choice_b": "Bacteroid Fragilis",
+                "choice_c": "Chlymidia Trachomitis",
+                "choice_d": "Clostridium Perferinges",
+                "ans": "A",
+                "explanation": "Enterococcus is a common cause of postpartum endometritis, and it is often resistant to clindamycin and gentamicin.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 582,
+                    "grade": 9,
+                    "name": "Labor and Delivery",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 123,
+                    "name": "Postpartum Care"
+                }
+            },
+            {
+                "id": 5667,
+                "ques": "A 26 year old woman presents with increased facial hair, deepening of her voice, and eustachian appearance which has progressed over the past year. On examination she has cliteromegally and a palpable mass on the left ovary. What is the most likely cause?",
+                "choice_a": "Fibroma",
+                "choice_b": "Granulosa cell tumor",
+                "choice_c": "Sertoli leydig tumor",
+                "choice_d": "Dysgerminoma",
+                "ans": "C",
+                "explanation": "Sertoli-Leydig cell tumors are sex cord-stromal tumors that can produce androgens, leading to virilization (increased facial hair, deepening of voice, clitoromegaly).",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 589,
+                    "grade": 9,
+                    "name": "Gynecologic Oncology",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 151,
+                    "name": "Ovarian cancer"
+                }
+            },
+            {
+                "id": 5668,
+                "ques": "A 27 year old multiparous woman visits the OPD for irregular vaginal bleeding and a positive home pregnancy test. In the past two weeks, she had diffuse lower abdominal pain. Examination reveals a heart rate of 94/min and a BP of 100/60 mmHg. Abdomen is soft with no guarding and speculum examination reveals a scanty brown blood in the vaginal vault and a closed cervix. Trans-vaginal sonography is normal. What should be the next step?",
+                "choice_a": "Repeat her US in one week",
+                "choice_b": "Serum progesterone",
+                "choice_c": "Determine serial Serum HCG",
+                "choice_d": "Dilatation and curettage",
+                "ans": "C",
+                "explanation": "Given the positive pregnancy test, irregular bleeding, abdominal pain, and normal initial ultrasound, ectopic pregnancy or early pregnancy loss are concerns. Serial hCG measurements are crucial to assess the viability of the pregnancy and rule out ectopic pregnancy.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 585,
+                    "grade": 9,
+                    "name": "Early Pregnancy Complications",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 135,
+                    "name": "First trimester bleeding"
+                }
+            },
+            {
+                "id": 5669,
+                "ques": "A 28 year old female patient presents with tall stature, long finger, and bilateral sub laxation of lens, mitral valve prolapse and aortic dissection. What is the most likely pathogenesis for the patients condition?",
+                "choice_a": "Defect in growth regulating protein",
+                "choice_b": "Defect in enzyme protein",
+                "choice_c": "Defect in structure protein",
+                "choice_d": "Defect in transport protein",
+                "ans": "C",
+                "explanation": "The patient's presentation is consistent with Marfan syndrome, which is caused by a defect in fibrillin-1, a structural protein.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 563,
+                    "grade": 9,
+                    "name": "Cardiovascular diseases",
+                    "unit": "Internal Medicine"
+                },
+                "sub_chapter": {
+                    "id": 14,
+                    "name": "Atherosclerosis"
+                }
+            },
+            {
+                "id": 5670,
+                "ques": "A 28 year old null gravid has an abortion at 10 weeks. She is worried about her future fertility. From history, you recognized that her brother has a mosaic down syndrome. You advise her that clinically recognized first trimester pregnancies might end up in an abortion. The most common chromosomal abnormality causing this abortion is?",
+                "choice_a": "Monosomy",
+                "choice_b": "Polysomy",
+                "choice_c": "Triploidy",
+                "choice_d": "Trisomy",
+                "ans": "D",
+                "explanation": "Trisomy is the most common chromosomal abnormality found in first-trimester abortions.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 585,
+                    "grade": 9,
+                    "name": "Early Pregnancy Complications",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 135,
+                    "name": "First trimester bleeding"
+                }
+            },
+            {
+                "id": 5671,
+                "ques": "A 29 year old woman and her partner came to the OPD for not being able to conceive. Her menses comes every 40 days. She has normal smears and was never treated for STI. Her BMI was 29kg/m2. She has severe acne on her face and chest. Day 3 LH level is 8 IU/L. What is the most likely cause?",
+                "choice_a": "Cushing syndrome",
+                "choice_b": "Turner syndrome",
+                "choice_c": "Polycystic ovarian syndrome",
+                "choice_d": "Metabolic syndrome",
+                "ans": "C",
+                "explanation": "The patient's presentation (irregular menses, acne, elevated LH, and obesity) is highly suggestive of polycystic ovary syndrome (PCOS).",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 588,
+                    "grade": 9,
+                    "name": "Gynecologic Endocrinology and Infertility",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 145,
+                    "name": "Infertility"
+                }
+            },
+            {
+                "id": 5672,
+                "ques": "A 3 year old male child came with the complaint of progressive hoarseness of voice with difficulty of breathing of one month duration. He was previously operated two times for similar complaint and the family admitted that there was an improvement after each operation. Flexible fibro-optic laryngoscopic examination shows exophytic lesion at the anterior commissure of vocal folds. What will be the most likely diagnosis?",
+                "choice_a": "Vocal cord polyp",
+                "choice_b": "Squamous cell carcinoma",
+                "choice_c": "Vocal cord nodule",
+                "choice_d": "Laryngeal papilloma",
+                "ans": "D",
+                "explanation": "Recurrent exophytic lesions in the larynx, especially at the anterior commissure in a young child, are highly suggestive of laryngeal papillomatosis, caused by HPV.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 596,
+                    "grade": 9,
+                    "name": "Pediatric ENT",
+                    "unit": "ENT"
+                },
+                "sub_chapter": {
+                    "id": 193,
+                    "name": "Laryngeal papillomatosis"
+                }
+            },
+            {
+                "id": 5673,
+                "ques": "A 3 year-old child came to district hospital with whitish lesion at the center of the dark part of left eye which was noticed 5 months back. There was neither eye problem prior to this nor history of trauma. Visual acuity was 6/6 right eye and no light perception left eye. On torch examination there was whitish pupillary reflex on left eye. What best measure should be taken?",
+                "choice_a": "Counsel the family and send home as there is no visual potential",
+                "choice_b": "Refer the patient urgently to ophthalmologist",
+                "choice_c": "Tell the patients to seek better care at convenient time",
+                "choice_d": "Give an appointment for re-evaluation after two months",
+                "ans": "B",
+                "explanation": "A whitish pupillary reflex (leukocoria) in a child is a red flag for serious conditions like retinoblastoma or congenital cataract, requiring urgent ophthalmological evaluation.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 614,
+                    "grade": 9,
+                    "name": "General Cases",
+                    "unit": "Ophthalmology"
+                },
+                "sub_chapter": {
+                    "id": 248,
+                    "name": "Leukocoria (white pupil)"
+                }
+            },
+            {
+                "id": 5674,
+                "ques": "A 30 year old male patient visited ENT clinic because of the recurrent ear discharge associated with hearing loss he has had in the left ear for the past ten years. Otoscopic examination shows wet central perforation of the left tympanic membrane but the right tympanic membrane is intact. What is the next appropriate step in the management of this patient?",
+                "choice_a": "Tympanoplasty with PO amoxicillin",
+                "choice_b": "Aural toilet with gentamycin ear drop",
+                "choice_c": "Aural toilet with PO amoxicillin",
+                "choice_d": "Aural toilet with ciprofloxacin ear drop",
+                "ans": "D",
+                "explanation": "Given the chronic ear discharge and central perforation, the next step is aural toilet with topical antibiotics effective against common otitis media pathogens. Ciprofloxacin ear drops are a good choice due to their broad spectrum and low risk of ototoxicity.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 594,
+                    "grade": 9,
+                    "name": "Otologic disorders",
+                    "unit": "ENT"
+                },
+                "sub_chapter": {
+                    "id": 182,
+                    "name": "Otitis media"
+                }
+            },
+            {
+                "id": 5675,
+                "ques": "A 30 year old patient presents to emergency room with right side epistaxis of two hours duration. Anterior rhinoscopic examination shows bleeding from littles area. Cauterization was tried but it was not successful. What is the next appropriate management?",
+                "choice_a": "Arterial ligation",
+                "choice_b": "Arterial embolization",
+                "choice_c": "Anterior packing",
+                "choice_d": "Posterior packing",
+                "ans": "C",
+                "explanation": "If cauterization fails to control anterior epistaxis from Little's area, the next step is anterior nasal packing to apply direct pressure to the bleeding site.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 598,
+                    "grade": 9,
+                    "name": "ENT emergency",
+                    "unit": "ENT"
+                },
+                "sub_chapter": {
+                    "id": 199,
+                    "name": "Epistaxis"
+                }
+            },
+            {
+                "id": 5676,
+                "ques": "A 30 year-old female patient presented with thyroid mass of 10 years with recent two months enlargement. Patient had prior radiation therapy around neck region for unspecified disease. Biopsy examination showed cellular proliferation of malignant follicular cells with nuclear groove, nuclear clearing and intra nuclear inclusion. What is the most likely diagnosis of above case?",
+                "choice_a": "Medullary carcinoma",
+                "choice_b": "Papillary carcinoma",
+                "choice_c": "Anaplastic carcinoma",
+                "choice_d": "Follicular carcinoma",
+                "ans": "B",
+                "explanation": "The presence of nuclear grooves, nuclear clearing (Orphan Annie eye nuclei), and intranuclear inclusions on biopsy are characteristic features of papillary thyroid carcinoma.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 574,
+                    "grade": 9,
+                    "name": "Endocrine Surgery",
+                    "unit": "Surgery"
+                },
+                "sub_chapter": {
+                    "id": 72,
+                    "name": "Thyroid malignancies"
+                }
+            },
+            {
+                "id": 5677,
+                "ques": "A 25 year-old female patient presented with thyroid mass of 10 years with recent two months enlargement. Patient had prior radiation therapy around neck region for unspecified disease. Biopsy examination showed cellular proliferation of malignant follicular cells with nuclear groove, nuclear clearing and intra nuclear inclusion. What is the most likely diagnosis of above case?",
+                "choice_a": "Medullary carcinoma",
+                "choice_b": "Papillary carcinoma",
+                "choice_c": "Anaplastic carcinoma",
+                "choice_d": "Follicular carcinoma",
+                "ans": "B",
+                "explanation": "Papillary carcinoma is the most common type of thyroid cancer and is often associated with prior radiation exposure. The presence of nuclear grooves, nuclear clearing, and intranuclear inclusions are characteristic features of papillary carcinoma.",
+                "note": null,
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 567,
+                    "grade": 9,
+                    "name": "Endocrinology",
+                    "unit": "Internal Medicine"
+                },
+                "sub_chapter": {
+                    "id": 33,
+                    "name": "Thyroid disease"
+                }
+            },
+            {
+                "id": 5678,
+                "ques": "A 30 year-old para II female patient, who gave birth one year back, presented with frontal headache of one year, progressively decreased vision in both eyes of 6 months. She says that she was bumping with shoulder of other people because she cannot see on sides. On examination her vision is 6/9. The only pertinent finding is pallor of the disc on nasal side. What is the most appropriate initial test for this case?",
+                "choice_a": "Color vision test",
+                "choice_b": "Visual field test",
+                "choice_c": "MRI of the brain",
+                "choice_d": "CT scan of the cranium",
+                "ans": "B",
+                "explanation": "Visual field testing is the most appropriate initial test to assess for visual field defects, which are suggested by the patient's history of bumping into objects and pallor of the optic disc.",
+                "note": null,
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 615,
+                    "grade": 9,
+                    "name": "Neuro-Ophthalmology",
+                    "unit": "Ophthalmology"
+                },
+                "sub_chapter": {
+                    "id": 254,
+                    "name": "Visual field defects"
+                }
+            },
+            {
+                "id": 5679,
+                "ques": "A 30-year-old pregnant patient who is diagnosed to have preclampsia presents at term with blurred vision and BP of 150/100mmHg. What is the best next step of management of this patient?",
+                "choice_a": "IV hydralazine and watch for progress",
+                "choice_b": "Stabilize her with magnesium sulfate and deliver",
+                "choice_c": "Give steroids and deliver in 48 hours",
+                "choice_d": "Plan for an elective delivery at 39 weeks",
+                "ans": "B",
+                "explanation": "Stabilizing the patient with magnesium sulfate is crucial to prevent seizures in preeclampsia. Delivery is indicated at term in preeclampsia.",
+                "note": null,
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 583,
+                    "grade": 9,
+                    "name": "Medical disorders in pregnancy",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 125,
+                    "name": "Hypertension"
+                }
+            },
+            {
+                "id": 5680,
+                "ques": "A 31 year-old male patient presents with a multiple hypo-pigmented patches over his buttocks area, he complains of numbness over his fingers and toes. On physical examination, he appears to have decreased sensation of touch over areas of the lesion and he has enlarged right ulnar nerve. What investigative modality will help you to reach in diagnosis?",
+                "choice_a": "AFB stain of skin smear",
+                "choice_b": "Giemsa stain of skin smear",
+                "choice_c": "Nerve conduction study",
+                "choice_d": "Direct Immune fluorescence of the lesional biopsy",
+                "ans": "A",
+                "explanation": "AFB stain of skin smear is used to diagnose leprosy, which presents with hypopigmented patches, numbness, and enlarged peripheral nerves.",
+                "note": null,
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 562,
+                    "grade": 9,
+                    "name": "Infectious diseases",
+                    "unit": "Internal Medicine"
+                },
+                "sub_chapter": {
+                    "id": 1,
+                    "name": "Mycobacterial infections"
+                }
+            },
+            {
+                "id": 5681,
+                "ques": "A 32 year old gravida two, para one at 35 weeks is a known hypertensive patient on Methyldopa, Her ANC follow-up was unremarkable until two weeks back where it shows a lag in fetal growth. She has no headache, body swelling or epigastric pain. Upon examination, BP is 140/90mmHg, fundal height is 34cm, and the bio physical profile (BPP) score was 4. What is the next best management for this patient?",
+                "choice_a": "Follow up till term",
+                "choice_b": "BPP should be repeated and a score below 6 mandates termination",
+                "choice_c": "Lecithin-sphingomyelin ratio should be determined",
+                "choice_d": "Immediate termination is warranted",
+                "ans": "B",
+                "explanation": "A BPP score of 4 indicates fetal compromise. A score below 6 generally warrants termination of pregnancy, but repeating the BPP to confirm the initial result is the next best step.",
+                "note": null,
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 583,
+                    "grade": 9,
+                    "name": "Medical disorders in pregnancy",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 125,
+                    "name": "Hypertension"
+                }
+            },
+            {
+                "id": 5682,
+                "ques": "A 32 year old para-two woman came to the OPD with bloody discharge from the wound site five days after elective CS was done. Her Postoperative course in the hospital was unremarkable. On examination, her temperature was 370C. and upon removal of the surgical stitch, there was wound site hematoma which was drained. The rectus fascia was noted to be intact and no skin erythema or pus was seen. The wound was cleaned and appropriately dressed twice per day. After three days there was granulation tissue without evidence of infection. The next best step in the care of this patient is?",
+                "choice_a": "Secondary wound Closure",
+                "choice_b": "Iodine pack dressing",
+                "choice_c": "Continue the same regimen",
+                "choice_d": "Cloxacillin for 10 days",
+                "ans": "A",
+                "explanation": "Given the presence of granulation tissue without signs of infection after drainage of the hematoma, secondary wound closure is the appropriate next step to promote healing.",
+                "note": null,
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 571,
+                    "grade": 9,
+                    "name": "Basic principles of surgery",
+                    "unit": "Surgery"
+                },
+                "sub_chapter": {
+                    "id": 53,
+                    "name": "Surgical wounds"
+                }
+            },
+            {
+                "id": 5683,
+                "ques": "A 32 years old primi gravida at 41 weeks of gestation presented to the delivery unit after a pushing down pain of 7 hrs. Her ANC follow-up was unremarkable. At presentation, she was in the 2nd stage of labor, and was taken to delivery couch. The head was delivered but the shoulders failed to rotate. The attending midwife claims she has tried to flex the knees toward the mothers abdomen with suprapubic pressure, but was not successful. What is the next maneuver to be done?",
+                "choice_a": "Wood screw maneuver",
+                "choice_b": "McRoberts maneuver",
+                "choice_c": "Zavanelli maneuver",
+                "choice_d": "Rubin maneuver",
+                "ans": "D",
+                "explanation": "After McRoberts maneuver and suprapubic pressure have failed, the Rubin maneuver (internal rotation of the posterior shoulder) is the next appropriate step in managing shoulder dystocia.",
+                "note": null,
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 582,
+                    "grade": 9,
+                    "name": "Labor and Delivery",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 122,
+                    "name": "Intrapartum Care"
+                }
+            },
+            {
+                "id": 5684,
+                "ques": "A 32-year-old, gravida III, 38 weeks pregnant presented to the antenatal clinic, abdominal examination and ultrasonography revealed complete breech presentation with no apparent anomalies, the estimated fetal weight is 3250 gm, appropriate management is?",
+                "choice_a": "Follow up, waiting for onset of labor",
+                "choice_b": "Induction of labor.",
+                "choice_c": "Elective cesarean section.",
+                "choice_d": "Follow with weekly Sonography",
+                "ans": "A",
+                "explanation": "For a complete breech presentation at 38 weeks with an estimated fetal weight of 3250 gm and no apparent anomalies, following up and waiting for the onset of labor is the appropriate management. External cephalic version (ECV) could be considered, but is not listed as an option.",
+                "note": null,
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 582,
+                    "grade": 9,
+                    "name": "Labor and Delivery",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 122,
+                    "name": "Intrapartum Care"
+                }
+            },
+            {
+                "id": 5685,
+                "ques": "A 33 year-old man is brought in by his family after refusing to drink fluids for 24 hours. His wife reports a two weeks history of increased energy, eating little, talking a great deal, and interrupting others frequently, decrease need for the sleep and singing loudly during the night. What is the most likely diagnosis for the above case scenario?",
+                "choice_a": "Hypomania",
+                "choice_b": "Mania",
+                "choice_c": "Erotomania",
+                "choice_d": "Keleptomania",
+                "ans": "B",
+                "explanation": "The symptoms described (increased energy, decreased need for sleep, pressured speech, and impaired judgment) are characteristic of a manic episode.",
+                "note": null,
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 605,
+                    "grade": 9,
+                    "name": "Mood disorders",
+                    "unit": "Psychiatry and Mental Health"
+                },
+                "sub_chapter": {
+                    "id": 222,
+                    "name": "Bipolar disorders"
+                }
+            },
+            {
+                "id": 5686,
+                "ques": "A 35 year old complains of constant deep pelvic pain that increased over the past few years. It gets worse during menses, coitus and bowel movement. Examination reveals bilateral tenderness over the lower abdomen. On U/S, there is a 6 cm left adnexal mass, fixed uterus and uterosacral ligament. What is the most likely cause?",
+                "choice_a": "Endometrioma",
+                "choice_b": "Fibroma",
+                "choice_c": "Theca lutien cyst",
+                "choice_d": "Teratoma",
+                "ans": "A",
+                "explanation": "The symptoms (chronic pelvic pain exacerbated by menses, coitus, and bowel movements) and the findings (adnexal mass, fixed uterus, and uterosacral ligament nodularity) are highly suggestive of endometriosis, specifically an endometrioma.",
+                "note": null,
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 587,
+                    "grade": 9,
+                    "name": "Benign Gynecologic Conditions",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 334,
+                    "name": "Endometriosis"
+                }
+            },
+            {
+                "id": 5687,
+                "ques": "A 35 year old gravida-IV, para-III at a GA of 38 weeks, presents with pushing down pain of five hours. She has four strong contractions and fetal weight estimation is 2000 gm. Cervix is 6 cm dilated with face presentation, mentum posterior. What is the next option of management?",
+                "choice_a": "Rotate to mentum anterior",
+                "choice_b": "Re-evaluate after 2 hours",
+                "choice_c": "Augmentation",
+                "choice_d": "Cesarean delivery",
+                "ans": "B",
+                "explanation": "With a face presentation, mentum posterior, and a cervix dilated to 6 cm, the next step is to re-evaluate after 2 hours to assess progress. If the mentum does not rotate anteriorly, cesarean delivery is indicated.",
+                "note": null,
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 582,
+                    "grade": 9,
+                    "name": "Labor and Delivery",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 122,
+                    "name": "Intrapartum Care"
+                }
+            },
+            {
+                "id": 5688,
+                "ques": "A 35 year- old female patient presented with tearing, photophobia and foreign body sensation of 2 years duration. She was removing her upper eyelid lash repeatedly, but the symptoms persisted. On examination the eyelashes were turned inward and rubbing on the cornea. What measure is best for the patients condition?",
+                "choice_a": "Tarsotomy",
+                "choice_b": "Cauterizing the routes of eye lashes",
+                "choice_c": "Treating with antibiotics",
+                "choice_d": "Epilation",
+                "ans": "A",
+                "explanation": "Tarsotomy is the best option for treating trichiasis (inward turning eyelashes) that are causing corneal irritation. It involves surgically repositioning the eyelid margin to correct the direction of eyelash growth.",
+                "note": null,
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 618,
+                    "grade": 9,
+                    "name": "Orbital and Adnexal Disorders",
+                    "unit": "Ophthalmology"
+                },
+                "sub_chapter": {
+                    "id": 265,
+                    "name": "Eyelids"
+                }
+            },
+            {
+                "id": 5689,
+                "ques": "A 35 year-old known asthmatic female patient presented to OPD with clouding of vision in both eyes which started 2 years back and progressively worsened over time. She has also difficulty of seeing when bright light is present off-center of her visual field (has glare). No other ocular complaint. She has been using prednisolone on multiple occasions. What is the most likely diagnosis?",
+                "choice_a": "Keratitis",
+                "choice_b": "Optic neuropathy",
+                "choice_c": "Cataract",
+                "choice_d": "Glaucoma",
+                "ans": "C",
+                "explanation": "The history of progressive clouding of vision, glare, and long-term prednisolone use (a steroid) strongly suggests cataract formation. Steroid use is a known risk factor for cataracts.",
+                "note": null,
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 617,
+                    "grade": 9,
+                    "name": "Anterior Segment Disorders and Refractive Errors",
+                    "unit": "Ophthalmology"
+                },
+                "sub_chapter": {
+                    "id": 263,
+                    "name": "Cataract"
+                }
+            },
+            {
+                "id": 5690,
+                "ques": "A 35 year-old male known HIV/AIDS patient presented to you with progressive loss of vision of left eye in the last one month. He has no other ocular complaint. On examination no remarkable abnormality on the anterior part of the eye. On fundus, there was area of hemorrhage mixed with whitish lesion involving the macula. His CD4+T-cell count was 45 cells/ml. What is the most likely cause of loss of vision in this patient?",
+                "choice_a": "Cytomegalovirus retinitis",
+                "choice_b": "Herpes simplex retinitis",
+                "choice_c": "HIV retinopathy",
+                "choice_d": "Toxoplasmosis retinitis",
+                "ans": "A",
+                "explanation": "In an HIV/AIDS patient with a low CD4 count (45 cells/ml) and progressive vision loss with fundus findings of hemorrhage and whitish lesions involving the macula, Cytomegalovirus (CMV) retinitis is the most likely diagnosis.",
+                "note": null,
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 616,
+                    "grade": 9,
+                    "name": "Retinal Disorders",
+                    "unit": "Ophthalmology"
+                },
+                "sub_chapter": {
+                    "id": 259,
+                    "name": "Infectious retinal diseases"
+                }
+            },
+            {
+                "id": 5691,
+                "ques": "A 35-year-old woman initially presented for treatment at the medical emergency room. She reported that while sitting at her desk at work, she had suddenly experienced difficulty breathing, dizziness, tachycardia, shakiness, and a feeling of terror that she was going to die of a heart attack. A full medical evaluation revealed no sign of cardiovascular, pulmonary, or other illness. She had experienced two additional episodes over the last month. What is the most likely diagnosis?",
+                "choice_a": "Panic attack",
+                "choice_b": "Generalized anxiety disorder",
+                "choice_c": "Social Anxiety disorder",
+                "choice_d": "Panic disorder",
+                "ans": "D",
+                "explanation": "The sudden onset of intense fear accompanied by physical symptoms like difficulty breathing, dizziness, tachycardia, and shakiness, in the absence of any underlying medical condition, is characteristic of a panic attack. Recurrent panic attacks suggest a diagnosis of panic disorder.",
+                "note": null,
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 604,
+                    "grade": 9,
+                    "name": "Anxiety disorders",
+                    "unit": "Psychiatry and Mental Health"
+                },
+                "sub_chapter": {
+                    "id": 219,
+                    "name": "Panic disorder"
+                }
+            },
+            {
+                "id": 5692,
+                "ques": "A 37 year-old female HIV patient with a CD4 count of 95 cell/mm3 presents with a persistent painful ulcer involving the genital area and the inter-gluteal cleft of two years duration. She recalls that the initial lesions were vesicles which easily ruptured. What is the most likely diagnosis?",
+                "choice_a": "Pressure ulcer",
+                "choice_b": "Herpes simplex",
+                "choice_c": "Herpes zoster",
+                "choice_d": "Aphthous ulcer",
+                "ans": "B",
+                "explanation": "In an HIV patient with a low CD4 count and a persistent, painful genital ulcer that began as vesicles, Herpes simplex virus (HSV) infection is the most likely diagnosis. The chronic nature and vesicular presentation are characteristic of HSV in immunocompromised individuals.",
+                "note": null,
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 624,
+                    "grade": 9,
+                    "name": "STD",
+                    "unit": "Dermatology"
+                },
+                "sub_chapter": {
+                    "id": 277,
+                    "name": "Genital ulcer"
+                }
+            },
+            {
+                "id": 5693,
+                "ques": "A 39-year-old woman is diagnosed as having probable uterine fibroids based on a pelvic examination revealing an enlarged irregular uterus.  She is currently asymptomatic and expressed surprise that she had growths of the uterus. What would be the next most anticipated manifestation?",
+                "choice_a": "Infertility",
+                "choice_b": "Menorrhagia",
+                "choice_c": "Pelvic pain",
+                "choice_d": "Ureteral obstruction",
+                "ans": "B",
+                "explanation": "Menorrhagia (heavy menstrual bleeding) is the most common symptom associated with uterine fibroids.",
+                "note": null,
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 587,
+                    "grade": 9,
+                    "name": "Benign Gynecologic Conditions",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 139,
+                    "name": "Myoma"
+                }
+            },
+            {
+                "id": 5694,
+                "ques": "A 4-month-old female infant brought by her parents to PEOPD with a compliant of excessive sleepiness, poor breastfeeding and cold extremities. On examination she has widely opened anterior fontanel, noisy respiration and protruded tongue. Which laboratory investigation is most appropriate in this infant?",
+                "choice_a": "Serum TSH level",
+                "choice_b": "Serum T3 level",
+                "choice_c": "Serum total T4 level",
+                "choice_d": "Serum thyroglobulin level",
+                "ans": "C",
+                "explanation": "The symptoms (excessive sleepiness, poor breastfeeding, cold extremities) and signs (widely opened anterior fontanel, noisy respiration, protruded tongue) are suggestive of congenital hypothyroidism. Measuring serum total T4 level is the most appropriate initial investigation to assess thyroid function.",
+                "note": null,
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 643,
+                    "grade": 9,
+                    "name": "Endocrine disorders (Diabetes mellitus, Disorders of the thyroid)",
+                    "unit": "Pediatrics and Child Health"
+                },
+                "sub_chapter": {
+                    "id": 335,
+                    "name": "General"
+                }
+            },
+            {
+                "id": 5695,
+                "ques": "A 40 year old man was brought to the emergency room by his son for confusion. The son described that he always stays at home. He thinks that the government officials want to persecute him and claims that he has evidence for that. He prohibited the family members not to watch television or listen radio because he thinks that the officials will receive information about him. What would be the most likely finding on the mental status examination of this patient?",
+                "choice_a": "Elevated affect",
+                "choice_b": "Fluctuating consciousness",
+                "choice_c": "Delusions",
+                "choice_d": "Confabulation",
+                "ans": "C",
+                "explanation": "The patient's belief that government officials want to persecute him, despite having no basis in reality, is a delusion. Delusions are fixed, false beliefs that are not amenable to change in light of conflicting evidence.",
+                "note": null,
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 606,
+                    "grade": 9,
+                    "name": "Schizophrenia related disorders",
+                    "unit": "Psychiatry and Mental Health"
+                },
+                "sub_chapter": {
+                    "id": 228,
+                    "name": "Delusional disorders"
+                }
+            },
+            {
+                "id": 5696,
+                "ques": "A 41 year old woman returns for follow up one month after treatment of a urinary tract infection. Repeat urine dip stick test reveals 2+ blood, with negative protein, leukocyte esterase and nitrite. The next step in the evaluation of this woman is?",
+                "choice_a": "Retest in 3 month",
+                "choice_b": "Cystoscopy",
+                "choice_c": "Renal Ultrasound",
+                "choice_d": "Intravenous pyelogram",
+                "ans": "B",
+                "explanation": "The presence of hematuria (2+ blood) without proteinuria, leukocyte esterase, or nitrites after treatment for a UTI warrants further investigation to rule out underlying causes such as bladder cancer or other urological abnormalities. Cystoscopy is the most appropriate next step to directly visualize the bladder.",
+                "note": null,
+                "is_ai": true,
+                "image": null,
+                "chapter": {
+                    "id": 577,
+                    "grade": 9,
+                    "name": "Urology",
+                    "unit": "Surgery"
+                },
+                "sub_chapter": {
+                    "id": 98,
+                    "name": "Bladder cancer"
+                }
+            },
+            {
+                "id": 5697,
+                "ques": "What is the most likely finding on the mental status examination of this patient?",
+                "choice_a": "Elevated affect",
+                "choice_b": "Fluctuating consciousness",
+                "choice_c": "Delusions",
+                "choice_d": "Confabulation",
+                "ans": "C",
+                "explanation": "The correct answer is: Delusions",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 633,
+                    "grade": 9,
+                    "name": "Unclassified",
+                    "unit": "Unclassified"
+                },
+                "sub_chapter": {
+                    "id": 320,
+                    "name": "General"
+                }
+            },
+            {
+                "id": 5698,
+                "ques": "The next step in the evaluation of this woman is?",
+                "choice_a": "Retest in 3 month",
+                "choice_b": "Cystoscopy",
+                "choice_c": "Renal Ultrasound",
+                "choice_d": "Intravenous pyelogram",
+                "ans": "B",
+                "explanation": "The correct answer is: Cystoscopy",
+                "note": "A 41 year old woman returns for follow up one month after treatment of a urinary tract infection. Repeat urine dip stick test reveals 2+ blood, with negative protein, leukocyte esterase and nitrite.",
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 644,
+                    "grade": 9,
+                    "name": "UTI (Urinary Tract Infection)",
+                    "unit": "Nephrology"
+                },
+                "sub_chapter": {
+                    "id": 336,
+                    "name": "General"
+                }
+            },
+            {
+                "id": 5699,
+                "ques": "What is the most likely diagnosis of his conditions?",
+                "choice_a": "Presbyopia",
+                "choice_b": "Hyperopia",
+                "choice_c": "Myopia",
+                "choice_d": "Astigmatism",
+                "ans": "A",
+                "explanation": "The correct answer is: Presbyopia",
+                "note": "A 41 year-old male teacher started to have problem in reading fine prints at usual reading distance since the last one year which worsened over time. The problem worsens especially in dim light and it improves when he increases the reading distance. He did not have any visual problem or other ocular problem prior to that. His distance vision is 6/6 in both eye and the near vision is 6/12. No other findings.",
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 617,
+                    "grade": 9,
+                    "name": "Anterior Segment Disorders and Refractive Errors",
+                    "unit": "Ophthalmology"
+                },
+                "sub_chapter": {
+                    "id": 262,
+                    "name": "Refractive errors"
+                }
+            },
+            {
+                "id": 5700,
+                "ques": "What alternative medications do you prescribe when tricyclics (TCA) are not an option?",
+                "choice_a": "Atypical Antipsychotics",
+                "choice_b": "Benzodiazepines",
+                "choice_c": "Selective serotonin reuptake inhibitors",
+                "choice_d": "Mood stabilizers",
+                "ans": "C",
+                "explanation": "The correct answer is: Selective serotonin reuptake inhibitors",
+                "note": "A 42-year-old man, who has been diagnosed with major depression had two prior episodes which were successfully treated with Amitriptyline (TCA) but the patient decided to discontinue because of the intolerable side effect.",
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 605,
+                    "grade": 9,
+                    "name": "Mood disorders",
+                    "unit": "Psychiatry and Mental Health"
+                },
+                "sub_chapter": {
+                    "id": 220,
+                    "name": "Major depressive disorder (MDD)"
+                }
+            },
+            {
+                "id": 5701,
+                "ques": "What is the best route of surgery for this patient?",
+                "choice_a": "Robotic",
+                "choice_b": "Laparoscopic",
+                "choice_c": "Vaginal",
+                "choice_d": "Abdominal",
+                "ans": "C",
+                "explanation": "The correct answer is: Vaginal",
+                "note": "A 43 year old, para VI mother with dysfunctional uterine bleeding, comes for counselling regarding hysterectomy. Previously endometrial ablation has been tried and was not effective. She is morbidly obese with BMI 42, on pelvic evaluation the uterus is mobile. On Ultrasonography there is no adnexal mass.",
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 587,
+                    "grade": 9,
+                    "name": "Benign Gynecologic Conditions",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 140,
+                    "name": "Abnormal Uterine Bleeding (AUB)"
+                }
+            },
+            {
+                "id": 5702,
+                "ques": "What is the most likely initial medical complication that can be prevented?",
+                "choice_a": "Chronic liver disease",
+                "choice_b": "Withdrawal seizure",
+                "choice_c": "Hepatic encephalopathy",
+                "choice_d": "Wernickes encephalopathy",
+                "ans": "B",
+                "explanation": "The correct answer is: Withdrawal seizure",
+                "note": "A 45-year-old man has history of heavy drinking which affected his life in many aspects. He reports blackouts, an inability to quit drinking, and tolerance for alcohol. He has tried to quit on several occasions but has been unable to do so.",
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 608,
+                    "grade": 9,
+                    "name": "Substance-related and Addictive disorders",
+                    "unit": "Psychiatry and Mental Health"
+                },
+                "sub_chapter": {
+                    "id": 235,
+                    "name": "Alcohol withdrawal (Delirium tremens)"
+                }
+            },
+            {
+                "id": 5703,
+                "ques": "What is the most likely primary region to undergo necrosis?",
+                "choice_a": "Hepatic vein",
+                "choice_b": "Central vein",
+                "choice_c": "Portal vein",
+                "choice_d": "Hepatic artery",
+                "ans": "B",
+                "explanation": "The correct answer is: Central vein",
+                "note": "A 46 year-old male patient with known history of ischemic heart disease from massive myocardial infarction has mural thrombus. He recently developed acute liver injury. Wedge biopsy from liver showed branch of hepatic artery emboli with necrosis.",
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 565,
+                    "grade": 9,
+                    "name": "Gastrointestinal diseases",
+                    "unit": "Internal Medicine"
+                },
+                "sub_chapter": {
+                    "id": 24,
+                    "name": "Liver disease"
+                }
+            },
+            {
+                "id": 5704,
+                "ques": "What is the most likely endometrial biopsy report?",
+                "choice_a": "Simple hyperplasia with atypia",
+                "choice_b": "Complex hyperplasia with atypia",
+                "choice_c": "Complex hyperplasia without atypia",
+                "choice_d": "Simple hyperplasia without atypia",
+                "ans": "B",
+                "explanation": "The correct answer is: Complex hyperplasia with atypia",
+                "note": "A 50 year old whose last menses was two years ago, presented with a brisk bright red bleeding which was recurrent in the past two weeks, it was painless and no clot was passed. On examination she is hypertensive and mildly obese. The vulva and the vagina are thinned and dry. The physician advised her for hysterectomy.",
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 587,
+                    "grade": 9,
+                    "name": "Benign Gynecologic Conditions",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 140,
+                    "name": "Abnormal Uterine Bleeding (AUB)"
+                }
+            },
+            {
+                "id": 5705,
+                "ques": "What is most likely bone to be fractured in this case?",
+                "choice_a": "Lunet",
+                "choice_b": "Radius",
+                "choice_c": "Ulna",
+                "choice_d": "Scaphoid",
+                "ans": "B",
+                "explanation": "The correct answer is: Radius",
+                "note": "A 50 year old woman fall down with over stretched hand and developed deformity at the left wrist. You have ordered wrist x-ray and found one of the bones was fractured.",
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 573,
+                    "grade": 9,
+                    "name": "Orthopedics",
+                    "unit": "Surgery"
+                },
+                "sub_chapter": {
+                    "id": 62,
+                    "name": "Fractures"
+                }
+            },
+            {
+                "id": 5706,
+                "ques": "What is the most likely cellular change that you will see?",
+                "choice_a": "Hyperplasia",
+                "choice_b": "Metaplasia",
+                "choice_c": "Atrophy",
+                "choice_d": "Apoptosis",
+                "ans": "B",
+                "explanation": "The correct answer is: Metaplasia",
+                "note": "A 50 year-old male patient presented with epigastric burn of 6 months which is exacerbated upon spicy diet. He is diagnosed to have gastro esophageal reflux disease. Endoscopy revealed no mass but biopsy was taken for routine examination.",
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 565,
+                    "grade": 9,
+                    "name": "Gastrointestinal diseases",
+                    "unit": "Internal Medicine"
+                },
+                "sub_chapter": {
+                    "id": 25,
+                    "name": "PUD (Peptic Ulcer Disease) and Related Disorders"
+                }
+            },
+            {
+                "id": 5707,
+                "ques": "What is the most likely cause of his problem?",
+                "choice_a": "Pyelonephritis",
+                "choice_b": "Post-streptococcal glomerulonephritis",
+                "choice_c": "IgA nephropathy",
+                "choice_d": "Nephrotic syndrome",
+                "ans": "B",
+                "explanation": "The correct answer is: Post-streptococcal glomerulonephritis",
+                "note": "A 6 year old male child has brown urine and healing impetigo lesions. He presents with hypertension, dyspnea, periorbital edema, and hepatomegaly.",
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 593,
+                    "grade": 9,
+                    "name": "Pediatrics Out Of Neonatal Age",
+                    "unit": "Pediatrics and Child Health"
+                },
+                "sub_chapter": {
+                    "id": 174,
+                    "name": "Genitourinary tract diseases (Nephritic syndrome, Nephrotic syndrome, Renal failure, Urinary tract infections, CKD)"
+                }
+            },
+            {
+                "id": 5708,
+                "ques": "How do you manage this case?",
+                "choice_a": "Add oral antihistamines",
+                "choice_b": "Continue ibuprofen",
+                "choice_c": "Substitute ibuprofen with paracetamol",
+                "choice_d": "Discontinue ibuprofen",
+                "ans": "C",
+                "explanation": "The correct answer is: Substitute ibuprofen with paracetamol",
+                "note": "A 60 year-old male patient presented to the medical OPD with occasional pain over his knee and finger joints and was given oral ibuprofen. The next day he presented with pain and swelling of his face and lips.",
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 570,
+                    "grade": 9,
+                    "name": "Rheumatology",
+                    "unit": "Internal Medicine"
+                },
+                "sub_chapter": {
+                    "id": 50,
+                    "name": "Osteoarthritis and Gouty arthritis"
+                }
+            },
+            {
+                "id": 5709,
+                "ques": "What is the most likely diagnosis in this patient?",
+                "choice_a": "Central retinal artery occlusion",
+                "choice_b": "Hypertensive retinopathy",
+                "choice_c": "Branch retinal vein occlusion",
+                "choice_d": "Central retinal vein occlusion",
+                "ans": "D",
+                "explanation": "The correct answer is: Central retinal vein occlusion",
+                "note": "A 65 year-old hypertensive patient presented with painless decreased vision in right eye of 5 days duration. No other ocular complaint. On examination, the vision was 6/60 right eye and 6/6 left eye. The pertinent finding was diffuse hemorrhage with cotton wool spot in all quadrant and swollen disc on right fundus. No copper/silver wiring in both eyes.",
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 616,
+                    "grade": 9,
+                    "name": "Retinal Disorders",
+                    "unit": "Ophthalmology"
+                },
+                "sub_chapter": {
+                    "id": 257,
+                    "name": "Vascular occlusions"
+                }
+            },
+            {
+                "id": 5710,
+                "ques": "What is the diagnosis of the patient?",
+                "choice_a": "Melanoma",
+                "choice_b": "Squamous cell carcinoma",
+                "choice_c": "Actinic keratosis",
+                "choice_d": "Basal cell carcinoma",
+                "ans": "D",
+                "explanation": "The correct answer is: Basal cell carcinoma",
+                "note": "A 65 year-old male farmer who usually spends his time working outdoors on his farm presents with a hyper-pigmented papule over his nose of three year duration. The initial lesion was small but it progressively increased to attain its current size. The lesion occasionally bleeds but it is asymptomatic. On physical examination, he has a single ulcerated nodule with a translucent rolled border and telangiectasia. He has no significant lymphadenopathy. Biopsy showed aggregations of basaloid keratinocytes within a variably fibromyxoid stroma and a slit-like retraction of stroma from tumor islands.",
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 579,
+                    "grade": 9,
+                    "name": "Plastic surgery",
+                    "unit": "Surgery"
+                },
+                "sub_chapter": {
+                    "id": 116,
+                    "name": "Skin malignancies"
+                }
+            },
+            {
+                "id": 5711,
+                "ques": "What is the most likely infecting organism?",
+                "choice_a": "Respiratory syncytial virus",
+                "choice_b": "Streptococcus pneumonia",
+                "choice_c": "Adenovirus",
+                "choice_d": "Para influenza virus",
+                "ans": "A",
+                "explanation": "The correct answer is: Respiratory syncytial virus",
+                "note": "A 7 month old male infant presents with shortness of breath and wheezing. He had a 2 days history of cough and coryza and low grade fever before his breathing becomes worse. He is now not managing to breast feed. On examination he has signs of respiratory distress. There are crackles and diffuse wheezing throughout the chest.",
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 593,
+                    "grade": 9,
+                    "name": "Pediatrics Out Of Neonatal Age",
+                    "unit": "Pediatrics and Child Health"
+                },
+                "sub_chapter": {
+                    "id": 171,
+                    "name": "Respiratory tract diseases (Croup, Tonsilopharygitis, Sinusitis, Pneumonia, Bronchiolitis, Bronchial asthma)"
+                }
+            },
+            {
+                "id": 5712,
+                "ques": "Which of the following is the most appropriate next step in management this girl?",
+                "choice_a": "Throat swab for group A Streptococcus Rapid Antigen Detection Test",
+                "choice_b": "Observation only",
+                "choice_c": "Amoxicillin for 10 days",
+                "choice_d": "Antistreptolysin O antibody titer",
+                "ans": "D",
+                "explanation": "The correct answer is: Antistreptolysin O antibody titer",
+                "note": "A 7-year-old girl and her mother come to your clinic because the mother received a notice from her daughters school that two children in her class were being treated for Streptococcal throat infection. The girl is currently asymptomatic but has history of 2 episodes of pharyngitis in the past year for which was treated with azithromycin. She and other household contacts do not have history of rheumatic fever. Her examination results are normal.",
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 593,
+                    "grade": 9,
+                    "name": "Pediatrics Out Of Neonatal Age",
+                    "unit": "Pediatrics and Child Health"
+                },
+                "sub_chapter": {
+                    "id": 170,
+                    "name": "Infectious diseases (Measles, Pertussis, Poliomyelitis, Tetanus, Diphtheria, HIV/AIDS, Tuberculosis, Malaria, Typhoid fever, Relapsing fever, Typhus)"
+                }
+            },
+            {
+                "id": 5713,
+                "ques": "What is the next appropriate step in his/her management?",
+                "choice_a": "Emergency repair of the choanae.",
+                "choice_b": "Oral airway placement followed by repair of the choanae.",
+                "choice_c": "Emergency tracheostomy followed by repair of the choanae.",
+                "choice_d": "Appoint the patient to come at the age of five years for the repair.",
+                "ans": "B",
+                "explanation": "The correct answer is: Oral airway placement followed by repair of the choanae.",
+                "note": "A 72 hour old newborn presents to pediatric emergency OPD with the complaint of difficulty of breathing. Number six Foley catheter was unable to pass via both nostril and paranasal sinus. CT shows atresia of both choanae.",
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 592,
+                    "grade": 9,
+                    "name": "Neonatology",
+                    "unit": "Pediatrics and Child Health"
+                },
+                "sub_chapter": {
+                    "id": 161,
+                    "name": "Respiratory distress in newborns"
+                }
+            },
+            {
+                "id": 5714,
+                "ques": "Which of the following is the most important consideration in the management?",
+                "choice_a": "Elective schedule for ENT evaluation",
+                "choice_b": "Immediate removal is indicated",
+                "choice_c": "Nasal drops to facilitate expulsion.",
+                "choice_d": "Expectant management as spontaneous expulsion is expected",
+                "ans": "B",
+                "explanation": "The correct answer is: Immediate removal is indicated",
+                "note": "A disk battery is seen as a foreign body in the nose of a 2 year old child otherwise the child is in stable condition.",
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 598,
+                    "grade": 9,
+                    "name": "ENT emergency",
+                    "unit": "ENT"
+                },
+                "sub_chapter": {
+                    "id": 201,
+                    "name": "Foreign Body (Nasal and Ear)"
+                }
+            },
+            {
+                "id": 5715,
+                "ques": "Which vitamin deficiency is most consistent with these findings?",
+                "choice_a": "Thiamine",
+                "choice_b": "Niacin",
+                "choice_c": "Pyridoxine",
+                "choice_d": "Vitamin A",
+                "ans": "B",
+                "explanation": "The correct answer is: Niacin",
+                "note": "A five year old female child has developed red, roughened skin in sun-exposed areas over the past 2 years. She also has a chronic watery diarrhea.",
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 591,
+                    "grade": 9,
+                    "name": "General Pediatrics",
+                    "unit": "Pediatrics and Child Health"
+                },
+                "sub_chapter": {
+                    "id": 156,
+                    "name": "Nutrition"
+                }
+            },
+            {
+                "id": 5716,
+                "ques": "What measure should be taken?",
+                "choice_a": "Give treatment to the individual cases",
+                "choice_b": "Give treatment to family with the cases",
+                "choice_c": "Give mass treatment to communities where the cases are prevalent",
+                "choice_d": "Give mass treatment to the whole district",
+                "ans": "D",
+                "explanation": "The correct answer is: Give mass treatment to the whole district",
+                "note": "A general practitioner was assigned to do survey on trachoma in his district. The team found the prevalence of trachoma among children of one to nine years to be 25%.",
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 619,
+                    "grade": 9,
+                    "name": "Community Ophthalmology",
+                    "unit": "Ophthalmology"
+                },
+                "sub_chapter": {
+                    "id": 269,
+                    "name": "Trachoma"
+                }
+            },
+            {
+                "id": 5717,
+                "ques": "In what tumor are these cells seen?",
+                "choice_a": "Dermoid cyst",
+                "choice_b": "Krukenberg",
+                "choice_c": "Endometroid",
+                "choice_d": "Breener",
+                "ans": "B",
+                "explanation": "The correct answer is: Krukenberg",
+                "note": "A large adnexal mass was removed from a 30 year old patient. She has been complaining of occasional vomiting for the past 4 months. She has no vaginal bleeding. Histologic examination reveals Signet ring cells.",
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 589,
+                    "grade": 9,
+                    "name": "Gynecologic Oncology",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 151,
+                    "name": "Ovarian cancer"
+                }
+            },
+            {
+                "id": 5718,
+                "ques": "A large adnexal mass was removed from a 30 year old patient. She has been complaining of occasional vomiting for the past 4 months. She has no vaginal bleeding. Histologic examination reveals Signet ring cells. In what tumor are these cells seen?",
+                "choice_a": "Dermoid cyst",
+                "choice_b": "Krukenberg",
+                "choice_c": "Endometroid",
+                "choice_d": "Breener",
+                "ans": "B",
+                "explanation": "Krukenberg tumors are metastatic tumors to the ovary, most often from gastric adenocarcinoma. Signet ring cells are characteristic of Krukenberg tumors.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 589,
+                    "grade": 9,
+                    "name": "Gynecologic Oncology",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 151,
+                    "name": "Ovarian cancer"
+                }
+            },
+            {
+                "id": 5719,
+                "ques": "A mother has brought her eight years old daughter because of the development of breasts over the past year. Now she is requiring bras and being teased by her friends. On examination, she has tanner Stage-I pubic hair development. What is the most likely diagnosis?",
+                "choice_a": "Premature Telarche",
+                "choice_b": "Precocious puberty",
+                "choice_c": "Growth spurt",
+                "choice_d": "Adrenarch",
+                "ans": "A",
+                "explanation": "Premature thelarche is isolated breast development in girls younger than 8 years old without other signs of puberty (e.g., pubic hair, rapid growth).",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 593,
+                    "grade": 9,
+                    "name": "Pediatrics Out Of Neonatal Age",
+                    "unit": "Pediatrics and Child Health"
+                },
+                "sub_chapter": {
+                    "id": 175,
+                    "name": "Endocrine disorders (Diabetes mellitus, Disorders of the thyroid)"
+                }
+            },
+            {
+                "id": 5720,
+                "ques": "A pregnant woman comes to the ANC claiming that she has craving for ice, starch or clay. Her husband explains that she is emotionally labile for the last few weeks. She is currently at 32 weeks. What laboratory parameter is likely to be affected?",
+                "choice_a": "Electrolyte",
+                "choice_b": "Serum TSH",
+                "choice_c": "CBC",
+                "choice_d": "Organ Function Test",
+                "ans": "C",
+                "explanation": "Craving for ice, starch, or clay (pica) in pregnancy is often associated with iron deficiency anemia, which would be reflected in the CBC.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 583,
+                    "grade": 9,
+                    "name": "Medical disorders in pregnancy",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 129,
+                    "name": "Anemia"
+                }
+            },
+            {
+                "id": 5721,
+                "ques": "A six month old child who was on goats milk since the age of 3 months presented with irritability, involuntary movements and loss of appetite of two weeks duration. Physical Exam showed pale conjunctivae. Peripheral morphology showed large neutrophil size and his hemoglobin is 5 gm/dL. What is the best treatment for the patient?",
+                "choice_a": "Folic acid",
+                "choice_b": "Vitamin B12",
+                "choice_c": "Iron",
+                "choice_d": "Vitamin B6",
+                "ans": "A",
+                "explanation": "Goat's milk is deficient in folate. The symptoms and peripheral morphology suggest megaloblastic anemia due to folate deficiency. Therefore, folic acid is the best treatment.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 593,
+                    "grade": 9,
+                    "name": "Pediatrics Out Of Neonatal Age",
+                    "unit": "Pediatrics and Child Health"
+                },
+                "sub_chapter": {
+                    "id": 180,
+                    "name": "Hematology and oncology (Anemia, Leukemia, Lymphoma, Solid tumors)"
+                }
+            },
+            {
+                "id": 5722,
+                "ques": "A six year-old girl has been referred to a general Hospital by her teacher because she displays inattention, restlessness, distractibility, and poor concentration, which results in poor academic performance. Her parents describe a similar difficulty at home. She does not have any symptoms of depression, psychosis, or developmental problems. What is the best treatment?",
+                "choice_a": "Psychostimulant",
+                "choice_b": "Antiepileptics",
+                "choice_c": "Antipsychotics",
+                "choice_d": "Anti-depressant",
+                "ans": "A",
+                "explanation": "The symptoms described are consistent with ADHD. Psychostimulants are the first-line treatment for ADHD.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 609,
+                    "grade": 9,
+                    "name": "Child and Adolescent psychotic disorder",
+                    "unit": "Psychiatry and Mental Health"
+                },
+                "sub_chapter": {
+                    "id": 237,
+                    "name": "ADHD (Attention-Deficit / Hyperactivity Disorder)"
+                }
+            },
+            {
+                "id": 5723,
+                "ques": "A two month old infant has a history of patent ductus arteriosus ligation at one month of age. The infant has weak cry and breathy voice. He has choking and gagging with feeds and has been on thickened formula. What is the most likely diagnosis?",
+                "choice_a": "Unilateral vocal cord palsy",
+                "choice_b": "Subglottic stenosis",
+                "choice_c": "Laryngomalacia",
+                "choice_d": "Muscle tension dysphonia",
+                "ans": "A",
+                "explanation": "Unilateral vocal cord palsy is a known complication of PDA ligation, due to injury to the recurrent laryngeal nerve. This can cause weak cry, breathy voice, and feeding difficulties.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 592,
+                    "grade": 9,
+                    "name": "Neonatology",
+                    "unit": "Pediatrics and Child Health"
+                },
+                "sub_chapter": {
+                    "id": 167,
+                    "name": "Birth injuries"
+                }
+            },
+            {
+                "id": 5724,
+                "ques": "A two year old child presents with nasal obstruction since birth. On physical examination there is cystic non tender mass in the upper nasal bridge which expands with crying. What is the most likely diagnosis?",
+                "choice_a": "Glioma",
+                "choice_b": "Aneurysm",
+                "choice_c": "Encephalocele",
+                "choice_d": "Dermoid cyst",
+                "ans": "C",
+                "explanation": "An encephalocele is a neural tube defect where brain tissue protrudes through a defect in the skull. The location and expansion with crying are characteristic.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 592,
+                    "grade": 9,
+                    "name": "Neonatology",
+                    "unit": "Pediatrics and Child Health"
+                },
+                "sub_chapter": {
+                    "id": 169,
+                    "name": "Dysmorphology (Spinal bifida, Chiari malformation, Cranio-facial malformations, Club foot, down syndrome)"
+                }
+            },
+            {
+                "id": 5725,
+                "ques": "A woman has just delivered her first child after an uncomplicated pregnancy. She told the physician that she wants to use a contraceptive but wants to exclusively breast feed. Which contraceptive method should be avoided during breast feeding?",
+                "choice_a": "IUCD",
+                "choice_b": "COC",
+                "choice_c": "Depo Provera",
+                "choice_d": "POP",
+                "ans": "B",
+                "explanation": "Combined oral contraceptives (COCs) contain estrogen, which can interfere with breastfeeding. Progestin-only pills (POPs), Depo Provera, and IUCDs are safe for breastfeeding mothers.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 590,
+                    "grade": 9,
+                    "name": "Other Reproductive Health Problems/ Provisions",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 153,
+                    "name": "Family planning and Contraception"
+                }
+            },
+            {
+                "id": 5726,
+                "ques": "An 18 year old gravida-I, at eight weeks of gestation complains nausea and vomiting over the past week occurring on a daily basis. On examination, she is dehydrated and exhausted. Urinalysis shows ketone + 3. What severe complication is anticipated in this case?",
+                "choice_a": "Weight loss",
+                "choice_b": "Hypokalemia",
+                "choice_c": "Hypocalcemia",
+                "choice_d": "Proteinuria",
+                "ans": "B",
+                "explanation": "Severe nausea and vomiting in pregnancy (hyperemesis gravidarum) can lead to dehydration and electrolyte imbalances, particularly hypokalemia due to vomiting and renal losses.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 585,
+                    "grade": 9,
+                    "name": "Early Pregnancy Complications",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 136,
+                    "name": "Severe nausea and vomiting during pregnancy (Hyperemesis gravidarum)"
+                }
+            },
+            {
+                "id": 5727,
+                "ques": "An 18 year old nulli-gravid presented with a lower abdominal pain following her menses. She is sexually active and uses condom intermittently. She has neither nausea nor vomiting. Examination reveals a T 39.40C, cervical motion tenderness, unilateral adnexal tenderness and a mucopurulent cervicitis. Urine HCG is negative, and WBC count 9,500 cells per mm3. What is the next step in her management?",
+                "choice_a": "acyclovir",
+                "choice_b": "ketoconazole",
+                "choice_c": "antibiotics",
+                "choice_d": "NSAID",
+                "ans": "C",
+                "explanation": "The presentation is highly suggestive of pelvic inflammatory disease (PID). PID is treated with antibiotics to cover the likely causative organisms.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 586,
+                    "grade": 9,
+                    "name": "Pelvic Infections and STIs",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 138,
+                    "name": "Pelvic Inflammatory Disease (PID)"
+                }
+            },
+            {
+                "id": 5728,
+                "ques": "An 8-year-old boy is seen in regular OPD for progressive weakness. On examination, he is found to have hip waddle and enlargement of both calves. He is ambulatory, but his muscle strength is diminished symmetrically. What clinical finding is most consistent with the problem the child?",
+                "choice_a": "\"Foot drop\" gait",
+                "choice_b": "Increased deep tendon reflex",
+                "choice_c": "Myotonia",
+                "choice_d": "Gower sign",
+                "ans": "D",
+                "explanation": "The presentation is classic for Duchenne muscular dystrophy. Gower's sign (using hands to push off the floor to stand up) is a characteristic finding.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 645,
+                    "grade": 9,
+                    "name": "Neuromuscular Disorders",
+                    "unit": "Pediatrics and Child Health"
+                },
+                "sub_chapter": {
+                    "id": 337,
+                    "name": "General"
+                }
+            },
+            {
+                "id": 5729,
+                "ques": "An eight year old child presented with fever and joint pain of five days duration. Physical Examination: Pulse rate 112/min, Respiratory rate 24/min, Temperature 380C. The patient also has grade III systolic murmur at apex. Chest X-ray is normal and ASO is positive. What will be the appropriate management of this patient?",
+                "choice_a": "Asprin and Benzathine Penicillin",
+                "choice_b": "Prednsolone and Benzathine Penicillin",
+                "choice_c": "Diuretics, Asprin and Benzathine Penicillin",
+                "choice_d": "Diuretics, Prednsolone, Benzathine Penicillin",
+                "ans": "A",
+                "explanation": "The presentation is consistent with acute rheumatic fever (ARF). The treatment for ARF includes aspirin for inflammation and benzathine penicillin to eradicate the streptococcal infection.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 636,
+                    "grade": 9,
+                    "name": "Cardiovascular disease (Congenital heart disease, Acute rheumatic fever, Infective endocarditis, Heart failure)",
+                    "unit": "Pediatrics and Child Health"
+                },
+                "sub_chapter": {
+                    "id": 323,
+                    "name": "General"
+                }
+            },
+            {
+                "id": 5730,
+                "ques": "In a well-baby clinic, the child you are examining turns her head when her name is called. She is able to say Mama. Her mother told you she can also say Dada. She could say bye -bye to you when she left the room. What is the least consistent age of this child?",
+                "choice_a": "11 months.",
+                "choice_b": "15 months",
+                "choice_c": "9 months",
+                "choice_d": "7 months",
+                "ans": "B",
+                "explanation": "Saying \"Mama\" and \"Dada\" is expected around 9 months. Responding to name is expected around 7 months. Saying bye-bye is expected around 9-12 months. Therefore, 15 months is the least consistent age, as by that age, the child should be saying more than just \"Mama\" and \"Dada\".",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 591,
+                    "grade": 9,
+                    "name": "General Pediatrics",
+                    "unit": "Pediatrics and Child Health"
+                },
+                "sub_chapter": {
+                    "id": 155,
+                    "name": "Growth and development"
+                }
+            },
+            {
+                "id": 5731,
+                "ques": "Mother who brought her child for EPI wanted to know the difference between whole cell pertussis vaccines and acellular pertussis vaccine. How you best describe acellualr pertussis vaccine to the mother?",
+                "choice_a": "It requires fewer doses",
+                "choice_b": "It is associated with fewer side effects",
+                "choice_c": "It is more immunogenic",
+                "choice_d": "It is less expensive",
+                "ans": "B",
+                "explanation": "Acellular pertussis vaccines are associated with fewer side effects (e.g., fever, local reactions) compared to whole-cell pertussis vaccines.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 591,
+                    "grade": 9,
+                    "name": "General Pediatrics",
+                    "unit": "Pediatrics and Child Health"
+                },
+                "sub_chapter": {
+                    "id": 157,
+                    "name": "Vaccination"
+                }
+            },
+            {
+                "id": 5732,
+                "ques": "On examination you found that the thyroid gland of a 14 year old girl is firm, non-tender, mobile and symmetrically enlarged. The thyroxine level is 5.2 mcg/dL (normal, 5.6 to 11.7 mcg/dL) and the thyroid-stimulating hormone level is 17.5 mIU/mL (normal, 0.2 to 7.6 mIU/mL)Of the following the likely condition is?",
+                "choice_a": "Hashimotos thyroiditis",
+                "choice_b": "Graves Disease",
+                "choice_c": "Simple colloid goiter",
+                "choice_d": "Acute suppurative thyroiditis",
+                "ans": "A",
+                "explanation": "The findings are consistent with Hashimoto's thyroiditis, an autoimmune condition causing hypothyroidism (low T4, high TSH) and goiter.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 567,
+                    "grade": 9,
+                    "name": "Endocrinology",
+                    "unit": "Internal Medicine"
+                },
+                "sub_chapter": {
+                    "id": 33,
+                    "name": "Thyroid disease"
+                }
+            },
+            {
+                "id": 5733,
+                "ques": "A six years old female child who is recently diagnosed to have acute lymphoblastic leukemia (ALL) after investigation revealed WBC -3000cell/ml, bone marrow showed lymphoblastic cells with L3 morphology. The mother asks about the prognosis of her child. Which one of the following indicates unfavorable prognosis?",
+                "choice_a": "Age of 6 years",
+                "choice_b": "L3 morphology",
+                "choice_c": "Being female",
+                "choice_d": "Leucopenia",
+                "ans": "B",
+                "explanation": "L3 morphology (Burkitt-type ALL) is associated with a poorer prognosis in ALL compared to other subtypes.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 646,
+                    "grade": 9,
+                    "name": "Hematology and oncology (Anemia, Leukemia, Lymphoma, Solid tumors)",
+                    "unit": "Pediatrics and Child Health"
+                },
+                "sub_chapter": {
+                    "id": 338,
+                    "name": "General"
+                }
+            },
+            {
+                "id": 5734,
+                "ques": "The doctor while attending laboring mother after uneventful second stage, noticed massive vaginal bleeding following delivery of the baby. What would be the most likely appropriate first action to be taken to safe life of the woman while he was the only person in ward at midnight?",
+                "choice_a": "Remove placenta manually, compress the uterus",
+                "choice_b": "Uterotonic drug",
+                "choice_c": "Compress the abdominal aorta and ask for help",
+                "choice_d": "Open double IV line.",
+                "ans": "C",
+                "explanation": "In the setting of postpartum hemorrhage and being the only person available, the most immediate life-saving action is to compress the abdominal aorta to reduce blood flow to the uterus while simultaneously calling for help.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 582,
+                    "grade": 9,
+                    "name": "Labor and Delivery",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 123,
+                    "name": "Postpartum Care"
+                }
+            },
+            {
+                "id": 5735,
+                "ques": "A 23-month-old female is hospitalized for edematous severe acute malnutrition. What is most likely condition following inappropriately rapid treatment?",
+                "choice_a": "Hyperphosphatemaia",
+                "choice_b": "Hyperkalemia",
+                "choice_c": "Hypernatremia",
+                "choice_d": "Hypophosphatemia",
+                "ans": "D",
+                "explanation": "Refeeding syndrome, which can occur with rapid treatment of severe malnutrition, is characterized by hypophosphatemia due to increased cellular uptake of phosphate.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 591,
+                    "grade": 9,
+                    "name": "General Pediatrics",
+                    "unit": "Pediatrics and Child Health"
+                },
+                "sub_chapter": {
+                    "id": 156,
+                    "name": "Nutrition"
+                }
+            },
+            {
+                "id": 5736,
+                "ques": "While assessing the age of a child, he is developmentally normal, is able to sit without support, can transfer objects from one hand to the other, and speaks in a monosyllabic babble. What is the probable age of this child?",
+                "choice_a": "6 month",
+                "choice_b": "9 month",
+                "choice_c": "4 month",
+                "choice_d": "12 month",
+                "ans": "A",
+                "explanation": "Sitting without support and transferring objects from one hand to the other are typically achieved around 6 months of age. Monosyllabic babbling also starts around this age.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 591,
+                    "grade": 9,
+                    "name": "General Pediatrics",
+                    "unit": "Pediatrics and Child Health"
+                },
+                "sub_chapter": {
+                    "id": 155,
+                    "name": "Growth and development"
+                }
+            },
+            {
+                "id": 5737,
+                "ques": "While reviewing your notes for your microbiology final examination, you learnt that staphylococcal food poisoning is caused by a heat-stable, preformed enterotoxin. What features are expected in this disease process?",
+                "choice_a": "Vomiting and abdominal cramps, followed by diarrhea",
+                "choice_b": "Concurrent staphylococcal bacteremia",
+                "choice_c": "High fever, and headache",
+                "choice_d": "Hematogenous staphylococcal pneumonia",
+                "ans": "A",
+                "explanation": "Staphylococcal food poisoning is caused by a preformed enterotoxin, leading to rapid onset of vomiting and abdominal cramps. Diarrhea may follow. Fever is typically absent.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 562,
+                    "grade": 9,
+                    "name": "Infectious diseases",
+                    "unit": "Internal Medicine"
+                },
+                "sub_chapter": {
+                    "id": 6,
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "id": 5738,
+                "ques": "A 21 year old woman brought by her family members with the complaint of difficulty of falling asleep of three days duration. During evaluation, she rapidly moves from one thought to another, at a pace that is difficult for the listener to keep up with, but all of the ideas are logically connected. What type of thought process abnormality the patient has?",
+                "choice_a": "Circumstantiality",
+                "choice_b": "Flight of ideas",
+                "choice_c": "Tangentiality",
+                "choice_d": "loosening of association",
+                "ans": "B",
+                "explanation": "Flight of ideas is characterized by rapid shifting between topics that are loosely connected. The ideas are logically connected, but the pace is too fast for the listener to follow easily.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 605,
+                    "grade": 9,
+                    "name": "Mood disorders",
+                    "unit": "Psychiatry and Mental Health"
+                },
+                "sub_chapter": {
+                    "id": 222,
+                    "name": "Bipolar disorders"
+                }
+            },
+            {
+                "id": 5739,
+                "ques": "You are called to see a 33 year old woman in labor with a gestational age of 41+2 weeks, as the midwife is concerned about the CTG. She had a raised BP of 150/100 mmHg two days back where cervical ripening and induction was done. On examination cervix is 4 cm dilated, station -2, and meconium stained liquor. What pattern of heart rate tracing mandates urgent delivery?",
+                "choice_a": "Early deceleration",
+                "choice_b": "Variable deceleration",
+                "choice_c": "Late deceleration",
+                "choice_d": "prolonged deceleration",
+                "ans": "C",
+                "explanation": "Late decelerations indicate uteroplacental insufficiency and require immediate intervention, including urgent delivery.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 582,
+                    "grade": 9,
+                    "name": "Labor and Delivery",
+                    "unit": "Obstetrics and Gynecology"
+                },
+                "sub_chapter": {
+                    "id": 122,
+                    "name": "Intrapartum Care"
+                }
+            },
+            {
+                "id": 5740,
+                "ques": "Young sexually active girl came with reddish discoloration of her urine and severe left flank pain of 5 hours duration. Her LMP is 4 days ago. What is the best modality of investigation for the above case?",
+                "choice_a": "Intravenous pyelography",
+                "choice_b": "MRI of abdomen",
+                "choice_c": "Erect plan abdominal x-ray",
+                "choice_d": "Ultrasound of abdomen",
+                "ans": "D",
+                "explanation": "Ultrasound of the abdomen is the best initial investigation for flank pain and hematuria in a young woman, as it can identify kidney stones, hydronephrosis, or other abnormalities without radiation exposure. It is also useful to rule out pregnancy-related complications.",
+                "note": null,
+                "is_ai": false,
+                "image": null,
+                "chapter": {
+                    "id": 577,
+                    "grade": 9,
+                    "name": "Urology",
+                    "unit": "Surgery"
+                },
+                "sub_chapter": {
+                    "id": 96,
+                    "name": "Urolithiasis"
+                }
+            }
+        ]
+    }
+}

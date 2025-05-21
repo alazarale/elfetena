@@ -1,0 +1,1510 @@
+{
+   "name":"UEE History 2012-2013",
+   "time":120,
+   "subject":10,
+   "code":11,
+   "grade":"12",
+   "price":5.0,
+   "questions":[
+      {
+         "ques":"Where did German and Italian fascists find an ally and collaborator when they set out to conquer the world during the second World War",
+         "choice_a":"In militaries japan",
+         "choice_b":"In Nationalist Turks",
+         "choice_c":"In Kuomintang China",
+         "choice_d":"ln Bolshevik Russia",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":93,
+            "grade":8,
+            "name":"THE SECOND WORLD WAR",
+            "unit":"Grade 12 Unit 6"
+         }
+      },
+      {
+         "ques":"Which of the following was true about the Diarchy rule in Ethiopia",
+         "choice_a":"The state was ruled unusually by three or more people.",
+         "choice_b":"The enlightened and educated class supported Zewditu.",
+         "choice_c":"The power is exercised solely by Zewditu and Teferi",
+         "choice_d":"The political power was exercised by \"enlightered\" feudalists",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":90,
+            "grade":8,
+            "name":"THE MAKING OF THE MODERN ETHIOPIAN EMPIRE, 1855-1935",
+            "unit":"Grade 12 Unit 3"
+         }
+      },
+      {
+         "ques":"Which one of the following posed a major international change to Lej Iyazu ?",
+         "choice_a":"The Tripartite powers",
+         "choice_b":"The Mehal Sefari",
+         "choice_c":"Negadras Haile Giorgis",
+         "choice_d":"Negus Mikael",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":90,
+            "grade":8,
+            "name":"THE MAKING OF THE MODERN ETHIOPIAN EMPIRE, 1855-1935",
+            "unit":"Grade 12 Unit 3"
+         }
+      },
+      {
+         "ques":"Which one of the following events participated a power struggle in Ethiopia?",
+         "choice_a":"The designation of Ras Mekonnen as heir",
+         "choice_b":"The designation of princes Zweditu as heir",
+         "choice_c":"The death of ras Mekonnen",
+         "choice_d":"The antagonism of Mehal sefari",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":90,
+            "grade":8,
+            "name":"THE MAKING OF THE MODERN ETHIOPIAN EMPIRE, 1855-1935",
+            "unit":"Grade 12 Unit 3"
+         }
+      },
+      {
+         "ques":"Which one of the following was an African welfare association that opposed colonial rule.",
+         "choice_a":"The Bataka",
+         "choice_b":"The Wafdet",
+         "choice_c":"African National Congress",
+         "choice_d":"The Neo-Destour",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":89,
+            "grade":8,
+            "name":"DEVELOPMENT OF CAPITALISM, NATIONALISM AND COLONIALISM",
+            "unit":"Grade 12 Unit 2"
+         }
+      },
+      {
+         "ques":"Which one of the following factors contributed for the Italian invention of Ethiopia in 1935?",
+         "choice_a":"Italy alliance with Germany",
+         "choice_b":"Ethiopian aggression at WalWal",
+         "choice_c":"The formation of the Young Italy party",
+         "choice_d":"Italian defect at the Battle of Adwa",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":92,
+            "grade":8,
+            "name":"ITALIAN FASCIST AGGRESSION AGAINST ETHIOPIA, 1935-1941",
+            "unit":"Grade 12 Unit 5"
+         }
+      },
+      {
+         "ques":"Among the existing agencies of the United Nation Organization, the body that took over the function of the League's Mandates commotion was",
+         "choice_a":"the Security Council",
+         "choice_b":"the economic and social council",
+         "choice_c":"the Trusteeship Council",
+         "choice_d":"the International Court of justice",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":93,
+            "grade":8,
+            "name":"THE SECOND WORLD WAR",
+            "unit":"Grade 12 Unit 6"
+         }
+      },
+      {
+         "ques":"The formation of the United Nation Organization took its final shape at a conference held a conference held at",
+         "choice_a":"Dumbadon",
+         "choice_b":"Tehran",
+         "choice_c":"Yalata",
+         "choice_d":"san Francisco",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":93,
+            "grade":8,
+            "name":"THE SECOND WORLD WAR",
+            "unit":"Grade 12 Unit 6"
+         }
+      },
+      {
+         "ques":"Before Hitler came to power, the Nazi party futures polices for outlined in the book called",
+         "choice_a":"Mein kampf",
+         "choice_b":"Reichstag",
+         "choice_c":"Social contract",
+         "choice_d":"Capital",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":92,
+            "grade":8,
+            "name":"ITALIAN FASCIST AGGRESSION AGAINST ETHIOPIA, 1935-1941",
+            "unit":"Grade 12 Unit 5"
+         }
+      },
+      {
+         "ques":"In the Nazi -Soviet pact of l939 Hilter and Stalin agreed to partilion",
+         "choice_a":"Hungary",
+         "choice_b":"Estonia",
+         "choice_c":"Poland",
+         "choice_d":"Finland",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":92,
+            "grade":8,
+            "name":"ITALIAN FASCIST AGGRESSION AGAINST ETHIOPIA, 1935-1941",
+            "unit":"Grade 12 Unit 5"
+         }
+      },
+      {
+         "ques":"Why did Europeans come to Africa in large number in the first half of 19th century? They came to",
+         "choice_a":"collect finishes African goods for market in Europe.",
+         "choice_b":"spread fruits of European civilization in Africa.",
+         "choice_c":"find market for European industrial goods in Africa",
+         "choice_d":"introduce new technologies to different part of Africa.",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":88,
+            "grade":8,
+            "name":"STATES AND PEOPLES OF THE SOUTHERN ETHIOPIA IN THE 19th CENTURY",
+            "unit":"Grade 12 Unit 1"
+         }
+      },
+      {
+         "ques":"The sccond phase of the Trans- Atlantic slave trade come to be known as the Triangular trade, because it",
+         "choice_a":"was dominated by three trading companies.",
+         "choice_b":"was commonly known as the robbing slave kade.",
+         "choice_c":"linked Europe, Africa and Asia.",
+         "choice_d":"connected Europe, Africa and America.",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":89,
+            "grade":8,
+            "name":"DEVELOPMENT OF CAPITALISM, NATIONALISM AND COLONIALISM",
+            "unit":"Grade 12 Unit 2"
+         }
+      },
+      {
+         "ques":"which one of the following best describes the main feature of trans-Atlantic Slave trades?",
+         "choice_a":"Captured slaves were crammed on airplane and transported to the America",
+         "choice_b":"Enslaved Africans peacefully labored on large scale plantations in America.",
+         "choice_c":"Europeans exchanged guns and other good with Africans for slaves.",
+         "choice_d":"American agricultural products and rum were shipped to Africa in exchange for iron.",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":89,
+            "grade":8,
+            "name":"DEVELOPMENT OF CAPITALISM, NATIONALISM AND COLONIALISM",
+            "unit":"Grade 12 Unit 2"
+         }
+      },
+      {
+         "ques":"which of the following took place during the 3rd phase of the Atlantib slave Trades?",
+         "choice_a":"Slave merchants and companies made enormous profit",
+         "choice_b":"Expansion of slave - hunting ground all over the continent",
+         "choice_c":"Visible dominance of monopolistic slave trading companies",
+         "choice_d":"Fierce competition between individual trades and companies",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":89,
+            "grade":8,
+            "name":"DEVELOPMENT OF CAPITALISM, NATIONALISM AND COLONIALISM",
+            "unit":"Grade 12 Unit 2"
+         }
+      },
+      {
+         "ques":"Who was the founder of the kingdom of Mali?",
+         "choice_a":"The Almoravids",
+         "choice_b":"The Madinka",
+         "choice_c":"The Soninke",
+         "choice_d":"The Bakongo",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":87,
+            "grade":7,
+            "name":"PEOPLES AND STATES IN PRE-COLONIAL AFRICA (1000 - 1884)",
+            "unit":"Grade 11 Unit 11"
+         }
+      },
+      {
+         "ques":"Which of the following is correct about the region king Motalamy in Medieval Damot?",
+         "choice_a":"Damot lost its independent existence",
+         "choice_b":"Damot for the first time conquered Aksum",
+         "choice_c":"Damot reached the height of its power.",
+         "choice_d":"Damot was invaded by the zagwe army.",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":88,
+            "grade":8,
+            "name":"STATES AND PEOPLES OF THE SOUTHERN ETHIOPIA IN THE 19th CENTURY",
+            "unit":"Grade 12 Unit 1"
+         }
+      },
+      {
+         "ques":"It was a rule that the king of the medieval Kingdom of kafa should belong to the clan called",
+         "choice_a":"Minjo",
+         "choice_b":"Mwa",
+         "choice_c":"Mikrecho",
+         "choice_d":"Tato",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":90,
+            "grade":8,
+            "name":"THE MAKING OF THE MODERN ETHIOPIAN EMPIRE, 1855-1935",
+            "unit":"Grade 12 Unit 3"
+         }
+      },
+      {
+         "ques":"As Ifat was to the walisma, the Sultanate of Shoa was to the",
+         "choice_a":"Mtolomies",
+         "choice_b":"Makhzumites",
+         "choice_c":"Mukaribs",
+         "choice_d":"Karidjites",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":90,
+            "grade":8,
+            "name":"THE MAKING OF THE MODERN ETHIOPIAN EMPIRE, 1855-1935",
+            "unit":"Grade 12 Unit 3"
+         }
+      },
+      {
+         "ques":"How did Ras. Tefrei get over the threat of Dej Balcha Safo during the period of Diarchy? He got over him after Balcha",
+         "choice_a":"was received prison treatment from treason.",
+         "choice_b":"retreated to the lack Tana",
+         "choice_c":"ultimately surrendered to Teferi",
+         "choice_d":"finally died a natural death",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":90,
+            "grade":8,
+            "name":"THE MAKING OF THE MODERN ETHIOPIAN EMPIRE, 1855-1935",
+            "unit":"Grade 12 Unit 3"
+         }
+      },
+      {
+         "ques":"What was the term garad in the medieval Muslim Sultanate of Hadiya ? it was the title of",
+         "choice_a":"the tax collectors",
+         "choice_b":"the rulers of the state",
+         "choice_c":"the military generals.",
+         "choice_d":"the provincial governors",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":81,
+            "grade":7,
+            "name":"THE ETHIOPIAN REGION AND HORN OF AFRICA up to 1270",
+            "unit":"Grade 11 UNIT 5"
+         }
+      },
+      {
+         "ques":"Which one of the following events led to colonial rivalry in Africa",
+         "choice_a":"The occupation of egypt by British colonial power in 1882",
+         "choice_b":"The involvement of Spain and Dutch in thc colonization of Africa",
+         "choice_c":"The establishment of advanced market centers in Africa",
+         "choice_d":"The establishment of large plantation agriculture in Africa",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":89,
+            "grade":8,
+            "name":"DEVELOPMENT OF CAPITALISM, NATIONALISM AND COLONIALISM",
+            "unit":"Grade 12 Unit 2"
+         }
+      },
+      {
+         "ques":"which of the following were the main factors for conflict and war in the Balkan region in the 20th century.",
+         "choice_a":"The emergency of five rival independent Balkan states",
+         "choice_b":"The establishment of Russia control of the Straits of the Black sea",
+         "choice_c":"The emergency of an aggressive sense of nationalism",
+         "choice_d":"The deep involvement of Russia in the war of l912-1913",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":89,
+            "grade":8,
+            "name":"DEVELOPMENT OF CAPITALISM, NATIONALISM AND COLONIALISM",
+            "unit":"Grade 12 Unit 2"
+         }
+      },
+      {
+         "ques":"Which of the following was the main development that paved the way for German Unification?",
+         "choice_a":"The idea of the Congress of Vienna",
+         "choice_b":"The creation of the German confederation",
+         "choice_c":"The presence foreign power on German soil",
+         "choice_d":"The economic disparity among German states",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":89,
+            "grade":8,
+            "name":"DEVELOPMENT OF CAPITALISM, NATIONALISM AND COLONIALISM",
+            "unit":"Grade 12 Unit 2"
+         }
+      },
+      {
+         "ques":"Which one of the following was true about the American Civil war?",
+         "choice_a":"It stimulated the liberation movement in Latin America",
+         "choice_b":"It contributed to the outbreak of a revolution in France",
+         "choice_c":"It eradicated racial discrimination in the US",
+         "choice_d":"It resulted in abolishing slavery in the US",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":89,
+            "grade":8,
+            "name":"DEVELOPMENT OF CAPITALISM, NATIONALISM AND COLONIALISM",
+            "unit":"Grade 12 Unit 2"
+         }
+      },
+      {
+         "ques":"The main factors that facilitated Italian Unification was",
+         "choice_a":"The development of Italian national filling",
+         "choice_b":"the presence of a French garrison.",
+         "choice_c":"the positive role played by the catholic pope",
+         "choice_d":"the harsh dominated by the Australian state",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":89,
+            "grade":8,
+            "name":"DEVELOPMENT OF CAPITALISM, NATIONALISM AND COLONIALISM",
+            "unit":"Grade 12 Unit 2"
+         }
+      },
+      {
+         "ques":"The peak time of the Atlantic slave trade, during which the largest number of Africans were exported to the :New world\" was",
+         "choice_a":"The 19th century",
+         "choice_b":"The 20th century",
+         "choice_c":"The 17th century",
+         "choice_d":"The 18th century",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":89,
+            "grade":8,
+            "name":"DEVELOPMENT OF CAPITALISM, NATIONALISM AND COLONIALISM",
+            "unit":"Grade 12 Unit 2"
+         }
+      },
+      {
+         "ques":"Which of the following factors promoted the mutual interdependence between the Harar and the surrounding Oromo during the 19th century?",
+         "choice_a":"Joint resistance that they put up against the expanding army of Emperor Menilik",
+         "choice_b":"The wall built surrounding the city of Harar that served as a common defense.",
+         "choice_c":"The Common bond built around trading interaction with affinity to the religion of lslam",
+         "choice_d":"The railway that brought about mutual economic benefit for the two groups",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":88,
+            "grade":8,
+            "name":"STATES AND PEOPLES OF THE SOUTHERN ETHIOPIA IN THE 19th CENTURY",
+            "unit":"Grade 12 Unit 1"
+         }
+      },
+      {
+         "ques":"Who killed and beheaded emperor Gelawdeos in 1559?",
+         "choice_a":"The Adali army of Emir Nur Mujahid",
+         "choice_b":"His own son who wanted to take over power.",
+         "choice_c":"The vectors army of Gragn Ahmed.",
+         "choice_d":"Thb Turkish army that came to assist Gragn",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":85,
+            "grade":7,
+            "name":"THE ETHIOPIAN CHRISTIAN HIGHLAND KINGDOM (1543 - 1855)",
+            "unit":"Grade 11 Unit 9"
+         }
+      },
+      {
+         "ques":"During the middle ages, the basic requirement for a chance to qualify for a position in the civil service was",
+         "choice_a":"Leadership experience",
+         "choice_b":"Passing the civil service exam",
+         "choice_c":"connection with ruling dynasty",
+         "choice_d":"a university degree",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":80,
+            "grade":7,
+            "name":"THE MEDIEVAL PERIOD OR MIDDLE AGES",
+            "unit":"Grade 11 UNIT 4"
+         }
+      },
+      {
+         "ques":"The Eastern question in the Balkan region was caused by",
+         "choice_a":"the occupation of the Danube Bosporus by Russia",
+         "choice_b":"the defeat of Russia in the criminal war of 1854-1856",
+         "choice_c":"the expansion of the ottoman Empire in to the Balkans",
+         "choice_d":"the decline in power of ottoman turkey in the Balkans.",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":89,
+            "grade":8,
+            "name":"DEVELOPMENT OF CAPITALISM, NATIONALISM AND COLONIALISM",
+            "unit":"Grade 12 Unit 2"
+         }
+      },
+      {
+         "ques":"Which one of the following was an international factor that contributed to the long distance trade in Ethiopia in the 19th century?",
+         "choice_a":"The revival of European interest in Ethiopia",
+         "choice_b":"The political stability in the Gibe region",
+         "choice_c":"The rise of Mohamed Ali of Egypt.",
+         "choice_d":"The conquest caused by Russia",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":88,
+            "grade":8,
+            "name":"STATES AND PEOPLES OF THE SOUTHERN ETHIOPIA IN THE 19th CENTURY",
+            "unit":"Grade 12 Unit 1"
+         }
+      },
+      {
+         "ques":"Which Africa country was colonized by German?",
+         "choice_a":"Rwanda",
+         "choice_b":"Botswana",
+         "choice_c":"Nigeria",
+         "choice_d":"Angola",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":89,
+            "grade":8,
+            "name":"DEVELOPMENT OF CAPITALISM, NATIONALISM AND COLONIALISM",
+            "unit":"Grade 12 Unit 2"
+         }
+      },
+      {
+         "ques":"The African nation that successfully resisted European imperialism was",
+         "choice_a":"Libya",
+         "choice_b":"South Africa",
+         "choice_c":"Ethiopia",
+         "choice_d":"Liberia",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":89,
+            "grade":8,
+            "name":"DEVELOPMENT OF CAPITALISM, NATIONALISM AND COLONIALISM",
+            "unit":"Grade 12 Unit 2"
+         }
+      },
+      {
+         "ques":"Why was African resistance against colonialism usually Successful? Because",
+         "choice_a":"African lacked courage in battles",
+         "choice_b":"African lacked state organization",
+         "choice_c":"Europeans were a superior race",
+         "choice_d":"Europeans had a superior weapons",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":89,
+            "grade":8,
+            "name":"DEVELOPMENT OF CAPITALISM, NATIONALISM AND COLONIALISM",
+            "unit":"Grade 12 Unit 2"
+         }
+      },
+      {
+         "ques":"Which one of the following permissive factors did NOT contribute to the colonization of Africa?",
+         "choice_a":"Voyages and exploration",
+         "choice_b":"Africans lacked state organization",
+         "choice_c":"Commercial expedition",
+         "choice_d":"Military conquest",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":89,
+            "grade":8,
+            "name":"DEVELOPMENT OF CAPITALISM, NATIONALISM AND COLONIALISM",
+            "unit":"Grade 12 Unit 2"
+         }
+      },
+      {
+         "ques":"Which one of the following was an achievement of Muslim Arab civilization",
+         "choice_a":"Democracy",
+         "choice_b":"use of Latin grammar",
+         "choice_c":"Gothic paintings",
+         "choice_d":"CalligraphY",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":83,
+            "grade":7,
+            "name":"THE ETHIOPIAN REGION AND HORN OF AFRICA up TO 1529",
+            "unit":"Grade 11 Unit 7"
+         }
+      },
+      {
+         "ques":"Which of the following was among the major development of the Renaissance period?",
+         "choice_a":"The use of reason and questioning attitude.",
+         "choice_b":"The granting of fulI freedom of religion",
+         "choice_c":"The birth of feudalism",
+         "choice_d":"The decline in wealth of towns and cites",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":82,
+            "grade":7,
+            "name":"THE TRANSITION FROM MEDIEVAL TO MODERN PERIOD",
+            "unit":"Grade 11 Unit 6"
+         }
+      },
+      {
+         "ques":"Which of the following best describe the political, economical, and cultural conditions in Midvale Europe?",
+         "choice_a":"Consolidation of capitalism",
+         "choice_b":"Split of the roman catholic church",
+         "choice_c":"Development of feudalism",
+         "choice_d":"Exaction of the factory system",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":80,
+            "grade":7,
+            "name":"THE MEDIEVAL PERIOD OR MIDDLE AGES",
+            "unit":"Grade 11 UNIT 4"
+         }
+      },
+      {
+         "ques":"The major economic activity in early capitalism in Europe was",
+         "choice_a":"Manorialism",
+         "choice_b":"vassalage",
+         "choice_c":"serfdom",
+         "choice_d":"investment",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":80,
+            "grade":7,
+            "name":"THE MEDIEVAL PERIOD OR MIDDLE AGES",
+            "unit":"Grade 11 UNIT 4"
+         }
+      },
+      {
+         "ques":"Which of the following was NOT the major characteristics of the ''DarkAge\"",
+         "choice_a":"Greco- Roman civilization declined",
+         "choice_b":"Early capitalism emerged",
+         "choice_c":"Societies became urban centered",
+         "choice_d":"Feudalism flourished",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":79,
+            "grade":7,
+            "name":"THE ANCIENT WORLD",
+            "unit":"Grade 11 UNIT 3"
+         }
+      },
+      {
+         "ques":"A very good opportunities which helped the early zagwe rules to take over power from the last Aksumite kings was that they",
+         "choice_a":"Had control over trade and other importance resource of Aksum",
+         "choice_b":"Won the recognition and support of the church.",
+         "choice_c":"Were already integrated with Aksumite courts and bureaucracy.",
+         "choice_d":"Were dominant elements in the Aksumite army",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":81,
+            "grade":7,
+            "name":"THE ETHIOPIAN REGION AND HORN OF AFRICA up to 1270",
+            "unit":"Grade 11 UNIT 5"
+         }
+      },
+      {
+         "ques":"Which one of the following was a major challenge to long distance traders in the 19th century in Ethiopia?",
+         "choice_a":"Government intervention",
+         "choice_b":"Shortage of trading items",
+         "choice_c":"Heavy taxation",
+         "choice_d":"Too Many kellas",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":88,
+            "grade":8,
+            "name":"STATES AND PEOPLES OF THE SOUTHERN ETHIOPIA IN THE 19th CENTURY",
+            "unit":"Grade 12 Unit 1"
+         }
+      },
+      {
+         "ques":"What was the contribution of the German historian, Job Ludolf, to the study of Ethiopian",
+         "choice_a":"He was writer and publisher the first modern history of Ethiopia",
+         "choice_b":"He was the first Chairman of the department of history at AAU.",
+         "choice_c":"He was the founder of the institute of Ethiopian studies.",
+         "choice_d":"He was the first Doctor of the Institute of Ethiopian studies.",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":58,
+            "grade":7,
+            "name":"HISTORY AND THE HISTORIANS CRAFT",
+            "unit":"Grade 11 UNIT 1"
+         }
+      },
+      {
+         "ques":"The main reasons why emperor Haile selassie I was forced to think about revising the Ethiopian constitution in 1955 was",
+         "choice_a":"The death of his son and successor Leul Mekonen",
+         "choice_b":"The federation of Eritrea with Ethiopia",
+         "choice_c":"The beginning of diplomatic relations with the USA",
+         "choice_d":"The establishment of the OAU.",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":95,
+            "grade":8,
+            "name":"ETHIOPIA FROM AUTOCRACY TO REVOLUTION (1941- 1991)",
+            "unit":"Grade 12 Unit 8"
+         }
+      },
+      {
+         "ques":"although there were several instance of African resistances against colonial imposition, the only country to successfully replace an European colonial invasion was",
+         "choice_a":"Ethiopia at Adwa",
+         "choice_b":"Sudan under the Mahdists",
+         "choice_c":"Tanzania in Maji -Maji",
+         "choice_d":"west Africa under samori Toure",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":89,
+            "grade":8,
+            "name":"DEVELOPMENT OF CAPITALISM, NATIONALISM AND COLONIALISM",
+            "unit":"Grade 12 Unit 2"
+         }
+      },
+      {
+         "ques":"Which one of the following is true about early states?they",
+         "choice_a":"had people with specialized skill and differentiation in to classes.",
+         "choice_b":"had a mechanism of representative government and rule of law",
+         "choice_c":"Had similar size, power and level of technology",
+         "choice_d":"Had institution like constitutions and parliament",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":79,
+            "grade":7,
+            "name":"THE ANCIENT WORLD",
+            "unit":"Grade 11 UNIT 3"
+         }
+      },
+      {
+         "ques":"Where did the earliest agricultural population who started food production in human history live during the Neolithic period?",
+         "choice_a":"The Nile valley",
+         "choice_b":"The Balkan region",
+         "choice_c":"The Fertile Crescent",
+         "choice_d":"The Indus valley",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":78,
+            "grade":7,
+            "name":"EARLY DEVELOPMENT OF HUMAN BEINGS",
+            "unit":"Grade 11 UNIT 2"
+         }
+      },
+      {
+         "ques":"Experts of the field agree that the periodization Known as \"pre-historic period\" coincides with one of the following. which one?",
+         "choice_a":"Iron age",
+         "choice_b":"Stone age",
+         "choice_c":"Copper age",
+         "choice_d":"Bronze age",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":58,
+            "grade":7,
+            "name":"HISTORY AND THE HISTORIANS CRAFT",
+            "unit":"Grade 11 UNIT 1"
+         }
+      },
+      {
+         "ques":"The availability of one of the following is irreplaceable or a mandatory requirement in academic history. Which one?",
+         "choice_a":"Oral traditions",
+         "choice_b":"quantitative data",
+         "choice_c":"written source ,",
+         "choice_d":"correct evidence",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":79,
+            "grade":7,
+            "name":"THE ANCIENT WORLD",
+            "unit":"Grade 11 UNIT 3"
+         }
+      },
+      {
+         "ques":"Which one of the following best describes history? It",
+         "choice_a":"is the study of events before the beginning of writing",
+         "choice_b":"is the study of societies with writing",
+         "choice_c":"Studies and interprets what people did in the past",
+         "choice_d":"The study of human culture prior to written records.",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":58,
+            "grade":7,
+            "name":"HISTORY AND THE HISTORIANS CRAFT",
+            "unit":"Grade 11 UNIT 1"
+         }
+      },
+      {
+         "ques":"The first focal known pre-axumite state in the Ethiopian region was",
+         "choice_a":"Adal",
+         "choice_b":"Damat",
+         "choice_c":"punt",
+         "choice_d":"Aksum",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":81,
+            "grade":7,
+            "name":"THE ETHIOPIAN REGION AND HORN OF AFRICA up to 1270",
+            "unit":"Grade 11 UNIT 5"
+         }
+      },
+      {
+         "ques":"Which of the following is NOT true about the language of Ethiopian and the horn?",
+         "choice_a":"The majority of the peoples and the horn are speakers of the semitic family.",
+         "choice_b":"Ethiopian and the horn consist of peoples who are ethnically and Linguistically diverse",
+         "choice_c":"Language spoken in the region, more than any other cultural aspects ,determines people's identity.",
+         "choice_d":"The variety of language spoken by peoples in the region descended from two superfamilies",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":81,
+            "grade":7,
+            "name":"THE ETHIOPIAN REGION AND HORN OF AFRICA up to 1270",
+            "unit":"Grade 11 UNIT 5"
+         }
+      },
+      {
+         "ques":"Which of the following events show the main future of the Neolithic Revolution in Ethiopian and the Horn?",
+         "choice_a":"The beginning of writing and recording of past events",
+         "choice_b":"The discovery of fire was a major achievement",
+         "choice_c":"The culture of Neolithic Revolution Is clearly known",
+         "choice_d":"The communities evidently started sedentary life",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":58,
+            "grade":7,
+            "name":"HISTORY AND THE HISTORIANS CRAFT",
+            "unit":"Grade 11 UNIT 1"
+         }
+      },
+      {
+         "ques":"Which statement best describes limitations in Ethiopia historiography?",
+         "choice_a":"Because of an imbalance of source money writers attracted to the study of the northern parts of the economy",
+         "choice_b":"Most studies focus on political, economic, social and cultural histories of the country's past",
+         "choice_c":"Scholars' sufficient knowledge on various aspects of the country lead to the availability of relabeled historical sources",
+         "choice_d":"The balance of sources in different parts of the country enabled scholars to present the facts of the country",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":81,
+            "grade":7,
+            "name":"THE ETHIOPIAN REGION AND HORN OF AFRICA up to 1270",
+            "unit":"Grade 11 UNIT 5"
+         }
+      },
+      {
+         "ques":"Which one of the following was the main achievements of China, India and Japan in the medieval period, respectively?",
+         "choice_a":"introduction of democracy , innovation of Hieroglyphic and construction of Hanging Gardens",
+         "choice_b":"Development of landscape painting, writing of great literature and land distribution Program",
+         "choice_c":"Construction of great pyramids, drainage system and introduction of seclusion policy",
+         "choice_d":"Construction of churches, advancement of conflict philosophy and introduction of civil service examination",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":80,
+            "grade":7,
+            "name":"THE MEDIEVAL PERIOD OR MIDDLE AGES",
+            "unit":"Grade 11 UNIT 4"
+         }
+      },
+      {
+         "ques":"Which one of the following does NOT describe the main feature of the Byzantine emperor?",
+         "choice_a":"Latin language was largely used instead of Greece",
+         "choice_b":"It was a feudal emperor ruled by an autocratic emperor",
+         "choice_c":"Tits economy was dependent on export of spices",
+         "choice_d":"astern orthodox churches was its national churches",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":79,
+            "grade":7,
+            "name":"THE ANCIENT WORLD",
+            "unit":"Grade 11 UNIT 3"
+         }
+      },
+      {
+         "ques":"Which one of the following has connection with ancient Asian civilization ?",
+         "choice_a":"Latin alphabet",
+         "choice_b":"Democracy",
+         "choice_c":"Symbol for zero",
+         "choice_d":"Olympic",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":79,
+            "grade":7,
+            "name":"THE ANCIENT WORLD",
+            "unit":"Grade 11 UNIT 3"
+         }
+      },
+      {
+         "ques":"Where did most ancient civilization emerge ?They emerged in",
+         "choice_a":"rain forests.",
+         "choice_b":"mountains",
+         "choice_c":"savannas",
+         "choice_d":"river value",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":79,
+            "grade":7,
+            "name":"THE ANCIENT WORLD",
+            "unit":"Grade 11 UNIT 3"
+         }
+      },
+      {
+         "ques":"Which one of the following combinations of an ancient civilization and its achievement is correct?",
+         "choice_a":"egypt ----- logographic",
+         "choice_b":"Sumerian ------ Cuneiform",
+         "choice_c":"Chine ------ Hieroglyphics",
+         "choice_d":"India ----- -Confucianism",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":79,
+            "grade":7,
+            "name":"THE ANCIENT WORLD",
+            "unit":"Grade 11 UNIT 3"
+         }
+      },
+      {
+         "ques":"Which of the following is NOT among the known distinguishing characteristics of the \"civilized state\" of the ancient world?",
+         "choice_a":"the existence of democracy and federal government",
+         "choice_b":"having one form of cities and some degree of literacy",
+         "choice_c":"The existence of religion and some sort of secular philosophy",
+         "choice_d":"The availability of wealth and some degree of technology",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":79,
+            "grade":7,
+            "name":"THE ANCIENT WORLD",
+            "unit":"Grade 11 UNIT 3"
+         }
+      },
+      {
+         "ques":"In Japan the landlords fought against each other with their feudal warriors known as.",
+         "choice_a":"The daimyos",
+         "choice_b":"the shogun",
+         "choice_c":"the samurai",
+         "choice_d":"the han",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":86,
+            "grade":7,
+            "name":"CAPITALISM AND THE GROWTH OF DEMOCRACY",
+            "unit":"Grade 11 Unit 10"
+         }
+      },
+      {
+         "ques":"Among the omotic state the dynasty name of Matto and Minjo as well as the name of king (tato) belong to the kingdom of",
+         "choice_a":"Kaffa",
+         "choice_b":"Walayita",
+         "choice_c":"Sheka",
+         "choice_d":"yem",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":88,
+            "grade":8,
+            "name":"STATES AND PEOPLES OF THE SOUTHERN ETHIOPIA IN THE 19th CENTURY",
+            "unit":"Grade 12 Unit 1"
+         }
+      },
+      {
+         "ques":"During the years of Italian occupation (1936-1941), fascist authority largely was limited to the urban centers. This was because",
+         "choice_a":"The rural areas had high infrastructure than the urban centers",
+         "choice_b":"The towns were inhabited by pro-Italian collaborated and bands",
+         "choice_c":"There was strong and widespread guerilla movement in the urban area",
+         "choice_d":"The rural area were home to a strong guerilla movement.",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":92,
+            "grade":8,
+            "name":"ITALIAN FASCIST AGGRESSION AGAINST ETHIOPIA, 1935-1941",
+            "unit":"Grade 12 Unit 5"
+         }
+      },
+      {
+         "ques":"Which one of the following describes best the Ethio-Italian relations for 1935?",
+         "choice_a":"The Addis Ababa Treaty ended sign of Italian colonial interest Ethiopia",
+         "choice_b":"The Italian government adopted a policy of \"friendly\" relation with Ethiopian",
+         "choice_c":"They both adopted a hostile relation in the areas of international relations",
+         "choice_d":"Italy opposed Ethiopia's membership to the League of nation in 1923",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":92,
+            "grade":8,
+            "name":"ITALIAN FASCIST AGGRESSION AGAINST ETHIOPIA, 1935-1941",
+            "unit":"Grade 12 Unit 5"
+         }
+      },
+      {
+         "ques":"Britain and France showed a pro-Italian stand in the dispute between Ethiopian and Italy following the wal-wal incident mainly to",
+         "choice_a":"Avoid the possibility of Italy becoming an ally of Germany.",
+         "choice_b":"To respect the charter of the League of Nation",
+         "choice_c":"Satisfy the wishes of their peoples which was pro-Italian.",
+         "choice_d":"Keep the promise they made to Italy in the Tripartite Treaty",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":90,
+            "grade":8,
+            "name":"THE MAKING OF THE MODERN ETHIOPIAN EMPIRE, 1855-1935",
+            "unit":"Grade 12 Unit 3"
+         }
+      },
+      {
+         "ques":"Which of the following statements is correct about Ethiopian army at the battle of Adwa?",
+         "choice_a":"There were well trained troops among the different brigades.",
+         "choice_b":"There was effective provision for the army of the region",
+         "choice_c":"There were Ethiopian collaborators within the Italian army",
+         "choice_d":"There was efficient coordination among the different armies",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":90,
+            "grade":8,
+            "name":"THE MAKING OF THE MODERN ETHIOPIAN EMPIRE, 1855-1935",
+            "unit":"Grade 12 Unit 3"
+         }
+      },
+      {
+         "ques":"Which one of the following regions peacefully submitted to Menelik of Shoa?",
+         "choice_a":"Jimma",
+         "choice_b":"Harar",
+         "choice_c":"Muslem Gurage",
+         "choice_d":"Arsi",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":90,
+            "grade":8,
+            "name":"THE MAKING OF THE MODERN ETHIOPIAN EMPIRE, 1855-1935",
+            "unit":"Grade 12 Unit 3"
+         }
+      },
+      {
+         "ques":"One of the following is true about the rise of Kasa Hailu to power",
+         "choice_a":"He was victorious at the battle of Debarqi.",
+         "choice_b":"He utilized the prophecy of Fukare Iyasus.",
+         "choice_c":"He came to power after a series of battles",
+         "choice_d":"He was crowned as Emperor at Ayshal",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":90,
+            "grade":8,
+            "name":"THE MAKING OF THE MODERN ETHIOPIAN EMPIRE, 1855-1935",
+            "unit":"Grade 12 Unit 3"
+         }
+      },
+      {
+         "ques":"Which one of the following is correct about the impact of long distance trade on Ethiopian society?",
+         "choice_a":"It bastened the formation of republic states.",
+         "choice_b":"It led to the spread of Protestantism in the southwest .",
+         "choice_c":"It was a major source of income to all peoples",
+         "choice_d":"It served as major means of economy",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":88,
+            "grade":8,
+            "name":"STATES AND PEOPLES OF THE SOUTHERN ETHIOPIA IN THE 19th CENTURY",
+            "unit":"Grade 12 Unit 1"
+         }
+      },
+      {
+         "ques":"The Maria Theresa coins served as medium of exchange were introduced in Ethiopia region at the ends of",
+         "choice_a":"The 19th century",
+         "choice_b":"The 20th century",
+         "choice_c":"The 17th century",
+         "choice_d":"The 18th century",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":88,
+            "grade":8,
+            "name":"STATES AND PEOPLES OF THE SOUTHERN ETHIOPIA IN THE 19th CENTURY",
+            "unit":"Grade 12 Unit 1"
+         }
+      },
+      {
+         "ques":"Which of the following explain the main feature of the 1830s and 1848 Revolution in Europe?",
+         "choice_a":"The liberal argued for Protection of traditional monarchies.",
+         "choice_b":"The conservative wanted to give more powers to the parliaments.",
+         "choice_c":"The liberals called for strict censorship of the press.",
+         "choice_d":"The workers favored a monarchial form of the government.",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":86,
+            "grade":7,
+            "name":"CAPITALISM AND THE GROWTH OF DEMOCRACY",
+            "unit":"Grade 11 Unit 10"
+         }
+      },
+      {
+         "ques":"Among the Enlightenment thinkers who advocated a free trade economic policy?",
+         "choice_a":"Montesquieu",
+         "choice_b":"Adam Smith",
+         "choice_c":"Vohaire",
+         "choice_d":"Rowseau",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":86,
+            "grade":7,
+            "name":"CAPITALISM AND THE GROWTH OF DEMOCRACY",
+            "unit":"Grade 11 Unit 10"
+         }
+      },
+      {
+         "ques":"Who was George Stepherson?",
+         "choice_a":"The first developer of a railway locomotive",
+         "choice_b":"The first inventor of electricity",
+         "choice_c":"The first inventor of steam locomotive",
+         "choice_d":"The builder of improved steam",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":86,
+            "grade":7,
+            "name":"CAPITALISM AND THE GROWTH OF DEMOCRACY",
+            "unit":"Grade 11 Unit 10"
+         }
+      },
+      {
+         "ques":"Which of the following social classes appeared with the industrial Revolution?",
+         "choice_a":"The peasant",
+         "choice_b":"the merchant",
+         "choice_c":"the serf",
+         "choice_d":"the proletariat",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":86,
+            "grade":7,
+            "name":"CAPITALISM AND THE GROWTH OF DEMOCRACY",
+            "unit":"Grade 11 Unit 10"
+         }
+      },
+      {
+         "ques":"Which of the following statements is true about the effect of the English Bourgeois Revolution ?",
+         "choice_a":"It established a parliamentary democratic system.",
+         "choice_b":"It spared reactionary ideas throughout Europe.",
+         "choice_c":"The monarchy became a constitutional monarchy.",
+         "choice_d":"It consolidated absolute monarchy",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":86,
+            "grade":7,
+            "name":"CAPITALISM AND THE GROWTH OF DEMOCRACY",
+            "unit":"Grade 11 Unit 10"
+         }
+      },
+      {
+         "ques":"the peace treaty that Russia signed with Germany to stop the First world War is known as",
+         "choice_a":"the Paris Peace Treaty.",
+         "choice_b":"The Nazi-Soviet Non -aggression Pact",
+         "choice_c":"The Versailles peace treaty",
+         "choice_d":"The Brest -Litovsk peace treaty",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":91,
+            "grade":8,
+            "name":"THE FIRST WORLD WAR, 1914-1918",
+            "unit":"Grade 12 Unit 4"
+         }
+      },
+      {
+         "ques":"The formation of the Leagues of nation was the result of",
+         "choice_a":"the Truman Doctrine to support the government of Central and Eastern Europe.",
+         "choice_b":"the unreserved support of president Harry Truman of the USA and his policy of containment",
+         "choice_c":"the tireless effort of president Wilson of the USA and his famous 14 points",
+         "choice_d":"the USA Senate ratification of America's membership in to the League",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":90,
+            "grade":8,
+            "name":"THE MAKING OF THE MODERN ETHIOPIAN EMPIRE, 1855-1935",
+            "unit":"Grade 12 Unit 3"
+         }
+      },
+      {
+         "ques":"The 1911 confrontation between Germany and France on the issue of the colonization of morocco is called",
+         "choice_a":"The kruger War",
+         "choice_b":"The Algiers crisis",
+         "choice_c":"The Fashoda incident",
+         "choice_d":"The Agadir crisis",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":89,
+            "grade":8,
+            "name":"DEVELOPMENT OF CAPITALISM, NATIONALISM AND COLONIALISM",
+            "unit":"Grade 12 Unit 2"
+         }
+      },
+      {
+         "ques":"Which of the following events led to the Battle of Adwa?",
+         "choice_a":"The abrogation of Neutrality Treat",
+         "choice_b":"Ethiopia's rejection of the Addis Ababa Treaty.",
+         "choice_c":"The abrogation of the Wuchale Treaty",
+         "choice_d":"The signing of the NeutralityTreat",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":90,
+            "grade":8,
+            "name":"THE MAKING OF THE MODERN ETHIOPIAN EMPIRE, 1855-1935",
+            "unit":"Grade 12 Unit 3"
+         }
+      },
+      {
+         "ques":"Tewodros the II faced opposition from the clergy because of his",
+         "choice_a":"declaration of the orthodox Tewahdo as official faith",
+         "choice_b":"attempt to tax church land without exception",
+         "choice_c":"attempt to put an end to the slave trade",
+         "choice_d":"encouragement of protestant missionaries",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":85,
+            "grade":7,
+            "name":"THE ETHIOPIAN CHRISTIAN HIGHLAND KINGDOM (1543 - 1855)",
+            "unit":"Grade 11 Unit 9"
+         }
+      },
+      {
+         "ques":"Which one of the following rulers acted as a king maker during zemene Mesafint?",
+         "choice_a":"Ittege Taytu",
+         "choice_b":"Ras Wolle",
+         "choice_c":"Ras Welde leul",
+         "choice_d":"Ras Mikeal Sehul",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":85,
+            "grade":7,
+            "name":"THE ETHIOPIAN CHRISTIAN HIGHLAND KINGDOM (1543 - 1855)",
+            "unit":"Grade 11 Unit 9"
+         }
+      },
+      {
+         "ques":"Zemen Mesafint was characterized by",
+         "choice_a":"religious controversy",
+         "choice_b":"economic progress",
+         "choice_c":"civilian optimism",
+         "choice_d":"political stability",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":85,
+            "grade":7,
+            "name":"THE ETHIOPIAN CHRISTIAN HIGHLAND KINGDOM (1543 - 1855)",
+            "unit":"Grade 11 Unit 9"
+         }
+      },
+      {
+         "ques":"Which of the following was a major consequence of the Muslim -Christian conflict of the l6th century?",
+         "choice_a":"The emergency of Harar as center of trade",
+         "choice_b":"Cooperation between the monarchy and the nobility reached a new height",
+         "choice_c":"The intermixing of population of the region",
+         "choice_d":"The flourishing of trade in the region",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":83,
+            "grade":7,
+            "name":"THE ETHIOPIAN REGION AND HORN OF AFRICA up TO 1529",
+            "unit":"Grade 11 Unit 7"
+         }
+      },
+      {
+         "ques":"Which one of the following was a factor for the 16th century Oromo population movement?",
+         "choice_a":"The rise in environmental degradation",
+         "choice_b":"The increase in human and livestock population",
+         "choice_c":"The desire to control trade routes",
+         "choice_d":"The desire to expand their religion",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":84,
+            "grade":7,
+            "name":"MAJOR EVENTS OF THE 16TH CENTURY ETHIOPIAN REGION AND THE HORN OF AFRICA AND THEIR IMPACTS",
+            "unit":"Grade 11 Unit 8"
+         }
+      },
+      {
+         "ques":"What characterized the christian highland kingdom during the medieval period?",
+         "choice_a":"Decline of power of the monarchs",
+         "choice_b":"Expansion for Islam in Christian areas",
+         "choice_c":"permanent royal court system",
+         "choice_d":"Large scale territorial expansion",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":82,
+            "grade":7,
+            "name":"THE TRANSITION FROM MEDIEVAL TO MODERN PERIOD",
+            "unit":"Grade 11 Unit 6"
+         }
+      },
+      {
+         "ques":"which one of the following was the main future of the Muslim state of Ethiopian and the hom?",
+         "choice_a":"Their emergency was related to support from ottomans",
+         "choice_b":"Their economic activity mainly depended on agriculture.",
+         "choice_c":"There were Muslim and Christian communities",
+         "choice_d":"Their rulers exercised both religious and political power",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":81,
+            "grade":7,
+            "name":"THE ETHIOPIAN REGION AND HORN OF AFRICA up to 1270",
+            "unit":"Grade 11 UNIT 5"
+         }
+      },
+      {
+         "ques":"What were the main factors that led to the resolution of the Solomonic Dynasty in 1270 AD?",
+         "choice_a":"strong economic and political position of yekuno- Amlak",
+         "choice_b":"Yekuno-Amlak's kingship ties with the last Aksumite ruler.",
+         "choice_c":"The spread of the legend of queen Shaba and king solomon",
+         "choice_d":"Military alliance between the Tigrean and Amhara regions",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":81,
+            "grade":7,
+            "name":"THE ETHIOPIAN REGION AND HORN OF AFRICA up to 1270",
+            "unit":"Grade 11 UNIT 5"
+         }
+      },
+      {
+         "ques":"What led to the establishment of the prison of Amba Geshen during the medieval period was",
+         "choice_a":"The growing ambition of the nobility to ascend to the throne .",
+         "choice_b":"Theft and robbery that reached the highest point in the 14th century.",
+         "choice_c":"The power rivalry and civil war that disturbed the zagwe state. .",
+         "choice_d":"The succession problem that ravaged the highland Christian state.",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":83,
+            "grade":7,
+            "name":"THE ETHIOPIAN REGION AND HORN OF AFRICA up TO 1529",
+            "unit":"Grade 11 Unit 7"
+         }
+      },
+      {
+         "ques":"Which cultural elements showed that the zagwe period had a country with Aksumite tradition?",
+         "choice_a":"The use of gold and amole for trade purpose",
+         "choice_b":"The use of Geez as the language writing",
+         "choice_c":"The prevalence of ship building technology",
+         "choice_d":"The development of crafts and literature",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":83,
+            "grade":7,
+            "name":"THE ETHIOPIAN REGION AND HORN OF AFRICA up TO 1529",
+            "unit":"Grade 11 Unit 7"
+         }
+      },
+      {
+         "ques":"Which of the following best describe the major features of the Axumite state?",
+         "choice_a":"Aksum expanded its territory as far as the Mediterranean sea.",
+         "choice_b":"The Aksumite kings owned large plantation farmed by slaves.",
+         "choice_c":"The Aksumite state structure was more or less monarchal.",
+         "choice_d":"For over half a millennium Aksum had control over South Arabia.",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":81,
+            "grade":7,
+            "name":"THE ETHIOPIAN REGION AND HORN OF AFRICA up to 1270",
+            "unit":"Grade 11 UNIT 5"
+         }
+      },
+      {
+         "ques":"What was the main cause of the Latin American Revolution in the early 19th century?",
+         "choice_a":"The influence of the ideas of the French Revolution",
+         "choice_b":"The economic decline of portugal and Spain",
+         "choice_c":"The British colonization of latin America people",
+         "choice_d":"The French colonization of Latin America people",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":86,
+            "grade":7,
+            "name":"CAPITALISM AND THE GROWTH OF DEMOCRACY",
+            "unit":"Grade 11 Unit 10"
+         }
+      },
+      {
+         "ques":"The Mandate of heaven was important to the rulers of ancient",
+         "choice_a":"Assyrian",
+         "choice_b":"China",
+         "choice_c":"India",
+         "choice_d":"Greece",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":86,
+            "grade":7,
+            "name":"CAPITALISM AND THE GROWTH OF DEMOCRACY",
+            "unit":"Grade 11 Unit 10"
+         }
+      },
+      {
+         "ques":"What was the main factor of the rise of Muslim State along the Ethio Sudanese border?",
+         "choice_a":"The territorial expansion of Menilik II",
+         "choice_b":"The expansion of the Mahdists to the era",
+         "choice_c":"The political stability in the era",
+         "choice_d":"The influence of cross-border trade",
+         "ans":"d",
+         "image":null,
+         "chapter":{
+            "id":81,
+            "grade":7,
+            "name":"THE ETHIOPIAN REGION AND HORN OF AFRICA up to 1270",
+            "unit":"Grade 11 UNIT 5"
+         }
+      },
+      {
+         "ques":"Who was the founder of the kingdom of Shewa?",
+         "choice_a":"Haile Melekot",
+         "choice_b":"Menilik the II",
+         "choice_c":"Negasi kristos",
+         "choice_d":"Sahle Selassie",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":85,
+            "grade":7,
+            "name":"THE ETHIOPIAN CHRISTIAN HIGHLAND KINGDOM (1543 - 1855)",
+            "unit":"Grade 11 Unit 9"
+         }
+      },
+      {
+         "ques":"Why did Emperor Susenyos make Catholicism a state religion? to",
+         "choice_a":"Secure the friendship of Portugal against the Turks.",
+         "choice_b":"Strength imperial power with portuguese military help",
+         "choice_c":"Introduce European knowledge in to the kingdom",
+         "choice_d":"Satisfy the desire of his people for a change in religion",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":85,
+            "grade":7,
+            "name":"THE ETHIOPIAN CHRISTIAN HIGHLAND KINGDOM (1543 - 1855)",
+            "unit":"Grade 11 Unit 9"
+         }
+      },
+      {
+         "ques":"Why did Portugal and ottoman Turkey take part in the conflict between Christian and Muslim of Ethiopian in the 16th century ? it was to",
+         "choice_a":"Colonize Ethiopian region and the horn of Africa",
+         "choice_b":"Advance their own economic and political interests.",
+         "choice_c":"Participate in the slave trade of the Red sea region",
+         "choice_d":"Facilitate the spared of their respective religions",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":82,
+            "grade":7,
+            "name":"THE TRANSITION FROM MEDIEVAL TO MODERN PERIOD",
+            "unit":"Grade 11 Unit 6"
+         }
+      },
+      {
+         "ques":"Which one of the following was the main cause for the expansion of the Christian highland kingdom in the medieval period?",
+         "choice_a":"The maintenance of a strong army and economic strength",
+         "choice_b":"The existence of peaceful relation with all its neighbors",
+         "choice_c":"The restoration of the territories of the Aksumite empire",
+         "choice_d":"The alliance between the Christian Kingdom and Europe",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":80,
+            "grade":7,
+            "name":"THE MEDIEVAL PERIOD OR MIDDLE AGES",
+            "unit":"Grade 11 UNIT 4"
+         }
+      },
+      {
+         "ques":"Which of the following is true about the relationship between the Christian Highland Kingdom And the Omotic state during the medieval period",
+         "choice_a":"There were a series of agreements between them",
+         "choice_b":"There was interaction between the two peoples.",
+         "choice_c":"There was strong understanding between them",
+         "choice_d":"The Christian highland Kingdom payed tribute to omotic state",
+         "ans":"b",
+         "image":null,
+         "chapter":{
+            "id":82,
+            "grade":7,
+            "name":"THE TRANSITION FROM MEDIEVAL TO MODERN PERIOD",
+            "unit":"Grade 11 Unit 6"
+         }
+      },
+      {
+         "ques":"Which one of the following best describes the main feature of the Omotic state in the Ethiopian region and the Horn?",
+         "choice_a":"The population and states drive their names for their relation",
+         "choice_b":"The founders of the state state migrants from Northern Ethiopia",
+         "choice_c":"Their communities mainly followed the religion of Judaism",
+         "choice_d":"The large scale cultivation of teff was a basis of their agriculture.",
+         "ans":"a",
+         "image":null,
+         "chapter":{
+            "id":82,
+            "grade":7,
+            "name":"THE TRANSITION FROM MEDIEVAL TO MODERN PERIOD",
+            "unit":"Grade 11 Unit 6"
+         }
+      },
+      {
+         "ques":"which statement is true about the introduction and expansion of Islam in Ethiopian and the Horn?",
+         "choice_a":"The port of Mettama was the main gateway of Islam",
+         "choice_b":"The earliest area of entry was the port of Bebera",
+         "choice_c":"The agents were Muslim clerics and merchants.",
+         "choice_d":"The jihad along the trade routes played a role",
+         "ans":"c",
+         "image":null,
+         "chapter":{
+            "id":80,
+            "grade":7,
+            "name":"THE MEDIEVAL PERIOD OR MIDDLE AGES",
+            "unit":"Grade 11 UNIT 4"
+         }
+      }
+   ]
+}
